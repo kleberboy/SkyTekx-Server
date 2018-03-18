@@ -49,9 +49,6 @@ world-settings:
     appeng-tile-grindstone-TileCrank:
       tick-no-players: false
       tick-interval: 1
-    com-nauktis-solarflux-blocks-SolarPanelTileEntity:
-      tick-no-players: false
-      tick-interval: 1
     net-minecraft-tileentity-TileEntityEnderChest:
       tick-no-players: false
       tick-interval: 1
@@ -79,6 +76,9 @@ world-settings:
     openblocks-common-tileentity-TileEntityTank:
       tick-no-players: false
       tick-interval: 1
+    openblocks-common-tileentity-TileEntityTrophy:
+      tick-no-players: false
+      tick-interval: 1
     cpw-mods-ironchest-TileEntityCrystalChest:
       tick-no-players: false
       tick-interval: 1
@@ -94,10 +94,22 @@ world-settings:
     com-aesireanempire-eplus-inventory-TileEnchantTable:
       tick-no-players: false
       tick-interval: 1
+    com-nauktis-solarflux-blocks-SolarPanelTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    cofh-thermalexpansion-block-machine-TilePulverizer:
+      tick-no-players: false
+      tick-interval: 1
     cofh-thermalexpansion-block-machine-TileSmelter:
       tick-no-players: false
       tick-interval: 1
-    openblocks-common-tileentity-TileEntityTrophy:
+    com-mrcrayfish-furniture-tileentity-TileEntityBedsideCabinet:
+      tick-no-players: false
+      tick-interval: 1
+    com-mia-props-common-entities-TileFaucet:
+      tick-no-players: false
+      tick-interval: 1
+    com-mia-props-common-entities-TileShowerHead:
       tick-no-players: false
       tick-interval: 1
     com-pam-harvestcraft-TileEntityPamApiary:
@@ -127,16 +139,25 @@ world-settings:
     net-minecraft-tileentity-TileEntityHopper:
       tick-no-players: false
       tick-interval: 1
-    advsolar-common-tiles-TileEntityAdvancedSolarPanel:
+    com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
       tick-no-players: false
       tick-interval: 1
-    powercrystals-minefactoryreloaded-tile-machine-TileEntityPlanter:
+    cpw-mods-ironchest-TileEntityGoldChest:
+      tick-no-players: false
+      tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityBrewingStand:
+      tick-no-players: false
+      tick-interval: 1
+    com-emoniph-witchery-worldgen-WorldHandlerVillageDistrictWallBlockVillageWallGenTileEntityVillageWallGen:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityEnchantmentTable:
       tick-no-players: false
       tick-interval: 1
     powercrystals-minefactoryreloaded-tile-machine-TileEntityHarvester:
-      tick-no-players: false
-      tick-interval: 1
-    advsolar-common-tiles-TileEntityMolecularTransformer:
       tick-no-players: false
       tick-interval: 1
     com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorFurnace:
@@ -151,7 +172,16 @@ world-settings:
     cofh-thermalexpansion-block-machine-TileTransposer:
       tick-no-players: false
       tick-interval: 1
-    cofh-thermalexpansion-block-machine-TilePulverizer:
+    advsolar-common-tiles-TileEntityAdvancedSolarPanel:
+      tick-no-players: false
+      tick-interval: 1
+    powercrystals-minefactoryreloaded-tile-machine-TileEntityPlanter:
+      tick-no-players: false
+      tick-interval: 1
+    cofh-thermalexpansion-block-device-TileActivator:
+      tick-no-players: false
+      tick-interval: 1
+    advsolar-common-tiles-TileEntityMolecularTransformer:
       tick-no-players: false
       tick-interval: 1
     ic2-core-block-machine-tileentity-TileEntityCanner:
@@ -175,22 +205,10 @@ world-settings:
     ic2-core-block-machine-tileentity-TileEntityMetalFormer:
       tick-no-players: false
       tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
+    mods-railcraft-common-blocks-machine-beta-TileEngineSteamHobby:
       tick-no-players: false
       tick-interval: 1
-    cpw-mods-ironchest-TileEntityGoldChest:
-      tick-no-players: false
-      tick-interval: 1
-    chanceCubes-tileentities-TileChanceCube:
-      tick-no-players: false
-      tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityBrewingStand:
-      tick-no-players: false
-      tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockBannerStandTileEntity:
+    mods-railcraft-common-blocks-machine-alpha-TileRollingMachine:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileEldritchAltar:
@@ -199,19 +217,22 @@ world-settings:
     thaumcraft-common-tiles-TileEldritchObelisk:
       tick-no-players: false
       tick-interval: 1
-    mods-railcraft-common-blocks-machine-beta-TileEngineSteamHobby:
-      tick-no-players: false
-      tick-interval: 1
-    mods-railcraft-common-blocks-machine-alpha-TileRollingMachine:
-      tick-no-players: false
-      tick-interval: 1
     openblocks-common-tileentity-TileEntityGrave:
       tick-no-players: false
       tick-interval: 1
-    vazkii-botania-common-block-tile-TileSpecialFlower:
+    chanceCubes-tileentities-TileChanceCube:
       tick-no-players: false
       tick-interval: 1
-    net-minecraft-tileentity-TileEntityEnchantmentTable:
+    codechicken-translocator-TileCraftingGrid:
+      tick-no-players: false
+      tick-interval: 1
+    com-mia-props-common-entities-TileSwitchableLamp:
+      tick-no-players: false
+      tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockBannerStandTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    vazkii-botania-common-block-tile-TileSpecialFlower:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-alloy-TileAlloySmelter:
@@ -221,9 +242,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-farm-TileFarmStation:
-      tick-no-players: false
-      tick-interval: 1
-    codechicken-translocator-TileCraftingGrid:
       tick-no-players: false
       tick-interval: 1
     twilightforest-tileentity-TileEntityTFFirefly:
@@ -287,9 +305,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     jds-bibliocraft-tileentities-TileEntityPrintPress:
-      tick-no-players: false
-      tick-interval: 1
-    com-emoniph-witchery-worldgen-WorldHandlerVillageDistrictWallBlockVillageWallGenTileEntityVillageWallGen:
       tick-no-players: false
       tick-interval: 1
     com-stek101-projectzulu-common-blocks-tombstone-TileEntityTombstone:
