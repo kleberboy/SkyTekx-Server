@@ -70,48 +70,48 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-hexxitgear-HGWorldGen: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
-    worldgen-magicalcrops-WorldGenEssenceNether: true
-    worldgen-ASRuins-RuinsWorldGenerator: true
-    worldgen-ExtrabiomesXL-LeafPileGenerator: true
-    worldgen-ExtrabiomesXL-QuicksandGenerator: true
-    worldgen-DraconicEvolution-DraconicWorldGenerator: true
-    worldgen-witchery-WitcheryWorldGenerator: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
-    worldgen-magicalcrops-WorldGenEssence: true
-    worldgen-ExtrabiomesXL-EelGrassGenerator: true
-    worldgen-harvestcraft-PamBeeGenerator: true
-    worldgen-magicalcrops-WorldGenEssenceEnd: true
-    worldgen-ExtraUtilities-WorldGenEnderLillies: true
-    worldgen-ExtrabiomesXL-LegendOakGenerator: true
-    worldgen-IC2-IC2: true
-    worldgen-harvestcraft-WorldGenPamSalt: true
-    worldgen-GalacticraftCore-OverworldGenerator: true
-    worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-meteors-MeteorsMod: true
-    worldgen-BattleTowers-WorldGenHandler: true
-    worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-CoFHCore-WorldHandler: true
-    worldgen-ImmersiveEngineering-IEWorldGen: true
-    worldgen-Natura-BaseTreeWorldgen: true
-    worldgen-harvestcraft-PamTreeGenerator: true
     worldgen-ExtrabiomesXL-FlowerGenerator: true
-    worldgen-Natura-BaseCropWorldgen: true
-    worldgen-ExtrabiomesXL-CatTailGenerator: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-ExtrabiomesXL-VineGenerator: true
-    worldgen-chococraft-WorldGenGysahls: true
-    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
     worldgen-appliedenergistics2-MeteoriteWorldGen: true
-    worldgen-chocolateQuest-WorldGeneratorNew: true
-    worldgen-Natura-BaseCloudWorldgen: true
-    worldgen-ProjectZuluCore-FeatureGenerator: true
-    worldgen-chisel-GeneratorChisel: true
+    worldgen-ExtrabiomesXL-VineGenerator: true
+    worldgen-ExtrabiomesXL-LeafPileGenerator: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-hexxitgear-HGWorldGen: true
+    worldgen-Natura-BaseCropWorldgen: true
+    worldgen-CoFHCore-WorldHandler: true
+    worldgen-magicalcrops-WorldGenEssenceEnd: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
+    worldgen-chococraft-WorldGenGysahls: true
     worldgen-ExtrabiomesXL-OilGenerator: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-BattleTowers-WorldGenHandler: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-meteors-MeteorsMod: true
+    worldgen-ProjectZuluCore-FeatureGenerator: true
+    worldgen-harvestcraft-PamBeeGenerator: true
+    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-chocolateQuest-WorldGeneratorNew: true
+    worldgen-ExtrabiomesXL-CatTailGenerator: true
+    worldgen-ExtrabiomesXL-LegendOakGenerator: true
+    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
+    worldgen-GalacticraftCore-OverworldGenerator: true
+    worldgen-magicalcrops-WorldGenEssence: true
+    worldgen-chisel-GeneratorChisel: true
+    worldgen-IC2-IC2: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
+    worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-ASRuins-RuinsWorldGenerator: true
+    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
+    worldgen-harvestcraft-WorldGenPamSalt: true
+    worldgen-magicalcrops-WorldGenEssenceNether: true
+    worldgen-ExtrabiomesXL-EelGrassGenerator: true
+    worldgen-Natura-BaseCloudWorldgen: true
+    worldgen-ExtrabiomesXL-QuicksandGenerator: true
+    worldgen-harvestcraft-PamGardenGenerator: true
+    worldgen-witchery-WitcheryWorldGenerator: true
+    worldgen-DraconicEvolution-DraconicWorldGenerator: true
   max-players-visible: -1
 plugin-settings:
   default:
