@@ -1,16 +1,16 @@
 uuid: c811ffa1-cfcd-44bf-a87c-64a8a0cc7518
 timestamps:
-  login: 1521378536173
-  logout: 1521378547251
+  login: 1521514259376
+  logout: 1521514555997
   lastteleport: 1521334749890
 ipAddress: 77.118.191.199
 logoutlocation:
   world: iceland
-  x: 173.4882247787873
-  y: 64.0
-  z: 258.8025317367744
-  yaw: -344.40024
-  pitch: 51.45
+  x: 108.30130269896534
+  y: 78.0
+  z: 511.1683684424582
+  yaw: -356.05646
+  pitch: 33.599968
 lastlocation:
   world: world
   x: 254.32430960224346
