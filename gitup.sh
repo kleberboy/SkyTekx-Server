@@ -17,6 +17,6 @@ cd $DIR
 git add .
 git commit -m "$(date) automated backup script (gitup.sh)"
 git push -uf origin master;
-systemctl restart skytekx.service
+reboot
 
 exit 0
