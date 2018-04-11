@@ -9,8 +9,13 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-947 90 207 -940 92 212 PumpkinField.tml
+-888 68 352 -885 71 355 EmeraldOreOutcrop.tml
+-208 96 706 -205 99 709 EmeraldOreOutcrop.tml
 -84 78 -82 -77 86 -75 Outcrop.tml
+-78 74 517 -75 78 519 SkeletonHeadStatue.tml
+-39 67 835 -36 70 838 StoneGrill.tml
 -33 58 57 -28 60 64 Melonfield.tml
 -3 61 -19 1 66 -16 StonePillar.tml
 -2 61 -17 3 66 -12 CaveSpiderBurrow.tml
-47 56 67 54 59 74 TinyFarmField.tml
+4 54 350 7 57 353 EmeraldOreOutcrop.tml
