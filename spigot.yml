@@ -22,8 +22,8 @@ settings:
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: -1
-  fullMatchRate: 10
   player-shuffle: 0
+  fullMatchRate: 10
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
@@ -68,6 +68,17 @@ world-settings:
       - 1
       - 5
     nerf-spawner-mobs: false
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    random-light-updates: false
+    save-structure-info: true
+    max-bulk-chunks: 5
+    max-entity-collisions: 8
+    max-tick-time:
+      tile: 50
+      entity: 50
+    max-tnt-per-tick: 100
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -80,22 +91,11 @@ world-settings:
       animals: 32
       monsters: 32
       misc: 16
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    random-light-updates: false
-    save-structure-info: true
-    max-bulk-chunks: 5
-    max-entity-collisions: 8
-    max-tick-time:
-      tile: 50
-      entity: 50
-    max-tnt-per-tick: 100
-    arrow-despawn-rate: 1200
+    item-despawn-rate: 6000
     chunks-per-tick: 650
     clear-tick-list: false
-    use-async-lighting: true
     view-distance: 10
-    item-despawn-rate: 6000
+    use-async-lighting: true
     enable-zombie-pigmen-portal-spawns: true
+    arrow-despawn-rate: 1200
     zombie-aggressive-towards-villager: true
