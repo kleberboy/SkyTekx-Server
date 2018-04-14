@@ -456,6 +456,7 @@
 1145 68 -3460 1148 71 -3457 StoneGrill.tml
 1150 78 -1994 1159 92 -1985 MoaiHead.tml
 1196 70 234 1199 75 238 StonePillar.tml
+1205 73 -3604 1220 80 -3589 Mausoleum.tml
 1234 71 -2058 1242 83 -2048 ArrowTrapTomb.tml
 1241 69 -561 1248 72 -554 TinyFarmField.tml
 1248 68 -1940 1257 75 -1925 Archway.tml
