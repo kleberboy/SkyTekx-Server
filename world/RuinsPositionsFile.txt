@@ -533,6 +533,8 @@
 282 62 -1763 285 65 -1760 EmeraldOreOutcrop.tml
 296 69 -1854 308 73 -1842 AncientFountain.tml
 296 71 -2003 301 76 -1998 CaveSpiderBurrow.tml
+341 68 -2514 350 82 -2505 MoaiHead.tml
+352 68 -2506 364 78 -2494 VolcanicVent.tml
 368 68 -2588 375 76 -2581 Outcrop.tml
 373 65 -2924 378 70 -2919 CaveSpiderBurrow.tml
 373 44 -3073 399 57 -3065 shipwreck.tml
