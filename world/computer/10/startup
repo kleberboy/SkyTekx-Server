@@ -1,0 +1,9 @@
+term.clear()
+term.setCursorPos(1,1)
+z=ture
+while true do
+shell.run("startup")
+sleep(0.75)
+term.setCursorPos(1,1)
+term.clear()
+end

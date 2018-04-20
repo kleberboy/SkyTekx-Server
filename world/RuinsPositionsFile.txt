@@ -785,6 +785,7 @@
 1527 63 -1242 1530 66 -1239 EmeraldOreOutcrop.tml
 1539 109 56 1546 111 61 PumpkinField.tml
 1548 52 -1367 1559 64 -1331 SunkenShip-v3.tml
+1553 62 1230 1583 100 1260 PirateShip.tml
 1555 79 -32 1558 82 -29 EmeraldOreOutcrop.tml
 1555 63 -1691 1562 65 -1686 Melonfield.tml
 1562 63 -2025 1571 77 -2016 MoaiHead.tml
@@ -804,6 +805,7 @@
 1642 50 869 1653 62 905 SunkenShip-v3.tml
 1643 161 1076 1650 164 1083 TinyFarmField.tml
 1644 64 -1888 1649 69 -1883 CaveSpiderBurrow.tml
+1654 45 -2395 1665 65 -2359 SunkenShip-v2.tml
 1656 68 199 1663 76 206 Outcrop.tml
 1659 63 -1968 1671 71 -1958 StoneHouseMruined.tml
 1660 69 -1697 1667 73 -1692 ZombieHut.tml

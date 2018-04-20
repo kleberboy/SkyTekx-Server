@@ -1,0 +1,44 @@
+local monitors = {peripheral.find("monitor")}
+
+for i=1,#monitors do
+  monitors[i].clear()
+  monitors[i].setTextScale(3.5)
+end
+
+local function centerText(text)
+  for i=1,#monitors do
+    local x,y = monitors[i].getSize()
+    local x2,y2 = monitors[i].getCursorPos()
+    monitors[i].setCursorPos(math.ceil((x / 2) - (text:len() / 2)), y2)
+    monitors[i].write(text)
+    sleep(0.1)
+  end
+end
+
+if (fs.exists("/timezone")) then
+  
+else
+	print("Berlin:")
+    local filewrite = fs.open("/timezone","w")
+	filewrite.writeLine(read())
+    filewrite.close()
+
+    local start = fs.open("/startup","w")
+    start.writeLine('shell.run("time")')
+    start.close()
+end
+    
+fileread = fs.open("/timezone","r")
+local timezone = fileread.readAll()
+fileread.close()
+
+while true do
+  
+  if (redstone.getInput("right")) then
+    centerText(http.get("http://www.timeapi.org/"..timezone.."/in+one+hour?format=%20%25l:%25M%20%25p").readAll())
+  else
+    centerText(http.get("http://www.timeapi.org/"..timezone.."/now?format=%20%25l:%25M%20%25p").readAll())
+  end
+
+  sleep(0.5)
+end

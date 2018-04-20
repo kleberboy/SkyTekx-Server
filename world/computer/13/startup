@@ -1,0 +1,79 @@
+-- Coder: Julian B., @langeweile1533, Copyyy
+local delay = 0
+local textsize = 1
+while true do
+	local cells, energy = { }, { }
+	local connecter = peripheral.getNames()
+
+	for k,v in pairs(connecter) do
+		if peripheral.getType(v) == "cofh_thermalexpansion_energycell" then
+			local active_cell = peripheral.wrap(v)
+			--print("cell found!")
+			energy[k] = active_cell.getEnergyStored(v)
+		elseif peripheral.getType(v) == "monitor" then
+			m = peripheral.wrap(v)
+			--print("monitor found!")
+		else 
+			--print("unknown device found!")			
+		end
+	end
+local u=0
+local x,y=m.getSize()
+m.clear()
+m.setTextScale(textsize)
+for k,v in pairs(energy) do
+if v >= 100000 then
+  v = tostring(v)
+  v = v:sub(1,#v-3)
+  v = v.."K"
+else
+  v = tostring(v)
+end  
+local name = "Zelle 0"
+  if u == 0 then
+    m.setCursorPos(x/6-#v/2+1.5,y/4)
+    m.write(v)
+    m.setCursorPos(x/6-#name/2+2, y/4-1)
+    m.write("Zelle 1")
+  --  print(v)
+    u = u+1
+  elseif u == 1 then  
+    m.setCursorPos(x/2-#v/2+1.5,y/4)
+    m.write(v)
+    m.setCursorPos(x/2-#name/2+2, y/4-1)
+    m.write("Zelle 2")
+  --  print(v)
+    u = u+1
+  elseif u == 2 then
+    m.setCursorPos((x-x/6)-#v/2+1.5, y/4)
+  --  print(v)
+    m.write(v)
+    m.setCursorPos((x-x/6)-#name/2+2, y/4-1)
+    m.write("Zelle 3")
+    u = u+1
+  elseif u == 3 then
+    m.setCursorPos(x/6-#v/2+1.5, y-y*0.25)
+  --  print(v)
+    m.write(v)
+    m.setCursorPos(x/6-#name/2+2, y-y*0.25-1)
+    m.write("Zelle 4")
+    u = u+1
+  elseif u == 4 then
+    m.setCursorPos(x/2-#v/2+1.5, y-y*0.25)
+  --  print(v)
+    m.write(v)
+    m.setCursorPos(x/2-#name/2+2, y-y*0.25-1)
+    m.write("Zelle 5")
+    u = u+1
+  elseif u == 5 then
+    m.setCursorPos((x-x/6)-#v/2+1.5, y-y*0.25)
+  --  print(v)
+    m.write(v)
+    m.setCursorPos((x-x/6)-#name/2+2, y-y*0.25-1)
+    m.write("Zelle 6")
+    u = u+1       
+  end
+end    
+     
+sleep(delay)
+end

@@ -1,0 +1,3 @@
+print(textutils.formatTime(os.time(), true))
+while true do
+
