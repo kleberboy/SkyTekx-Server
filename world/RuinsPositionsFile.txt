@@ -531,6 +531,7 @@
 -716 70 -1480 -704 74 -1468 AncientFountain.tml
 -712 65 -1378 -709 68 -1375 StoneGrill.tml
 -691 78 -1179 -679 111 -1167 OreSpire.tml
+-670 31 838 -644 44 846 shipwreck.tml
 -665 62 648 -635 100 678 PirateShip.tml
 -633 30 756 -597 50 767 SunkenShip-v2.tml
 -621 62 573 -618 65 576 EmeraldOreOutcrop.tml
