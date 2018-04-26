@@ -109,27 +109,6 @@ world-settings:
     crazypants-enderio-machine-farm-TileFarmStation:
       tick-no-players: false
       tick-interval: 1
-    micdoodle8-mods-galacticraft-core-tile-TileEntityMulti:
-      tick-no-players: false
-      tick-interval: 1
-    micdoodle8-mods-galacticraft-core-tile-TileEntityLandingPad:
-      tick-no-players: false
-      tick-interval: 1
-    com-pam-harvestcraft-TileEntityPamPresser:
-      tick-no-players: false
-      tick-interval: 1
-    jds-bibliowood-naturawood-blocks-TEClock:
-      tick-no-players: false
-      tick-interval: 1
-    exnihilo-blocks-tileentities-TileEntitySieve:
-      tick-no-players: false
-      tick-interval: 1
-    net-blay09-mods-excompressum-tile-TileEntityHeavySieve:
-      tick-no-players: false
-      tick-interval: 1
-    openblocks-common-tileentity-TileEntityCannon:
-      tick-no-players: false
-      tick-interval: 1
     net-blay09-mods-excompressum-tile-TileEntityAutoHammer:
       tick-no-players: false
       tick-interval: 1
@@ -161,6 +140,27 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-capbank-TileCapBank:
+      tick-no-players: false
+      tick-interval: 1
+    micdoodle8-mods-galacticraft-core-tile-TileEntityMulti:
+      tick-no-players: false
+      tick-interval: 1
+    micdoodle8-mods-galacticraft-core-tile-TileEntityLandingPad:
+      tick-no-players: false
+      tick-interval: 1
+    com-pam-harvestcraft-TileEntityPamPresser:
+      tick-no-players: false
+      tick-interval: 1
+    jds-bibliowood-naturawood-blocks-TEClock:
+      tick-no-players: false
+      tick-interval: 1
+    exnihilo-blocks-tileentities-TileEntitySieve:
+      tick-no-players: false
+      tick-interval: 1
+    net-blay09-mods-excompressum-tile-TileEntityHeavySieve:
+      tick-no-players: false
+      tick-interval: 1
+    openblocks-common-tileentity-TileEntityCannon:
       tick-no-players: false
       tick-interval: 1
     net-minecraft-tileentity-TileEntityFurnace:
@@ -331,6 +331,15 @@ world-settings:
     com-emoniph-witchery-blocks-BlockCircleTileEntityCircle:
       tick-no-players: false
       tick-interval: 1
+    net-minecraft-tileentity-TileEntityEnchantmentTable:
+      tick-no-players: false
+      tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    ic2-core-block-machine-tileentity-TileEntityIronFurnace:
+      tick-no-players: false
+      tick-interval: 1
     openblocks-common-tileentity-TileEntityBearTrap:
       tick-no-players: false
       tick-interval: 1
@@ -370,16 +379,7 @@ world-settings:
     thaumcraft-common-tiles-TileResearchTable:
       tick-no-players: false
       tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
-      tick-no-players: false
-      tick-interval: 1
     net-minecraft-tileentity-TileEntityPiston:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityEnchantmentTable:
-      tick-no-players: false
-      tick-interval: 1
-    ic2-core-block-machine-tileentity-TileEntityIronFurnace:
       tick-no-players: false
       tick-interval: 1
     chanceCubes-tileentities-TileChanceD20:
