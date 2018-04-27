@@ -37,6 +37,13 @@ stats:
 world-settings:
   default:
     verbose: false
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -57,6 +64,9 @@ world-settings:
       replace-blocks:
       - 1
       - 5
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
@@ -75,25 +85,15 @@ world-settings:
       hopper-check: 8
     random-light-updates: false
     save-structure-info: true
-    merge-radius:
-      item: 2.5
-      exp: 3.0
     max-bulk-chunks: 5
     max-entity-collisions: 8
     max-tick-time:
       tile: 50
       entity: 50
     max-tnt-per-tick: 100
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    mob-spawn-range: 4
+    view-distance: 10
     chunks-per-tick: 650
     clear-tick-list: false
-    view-distance: 10
     item-despawn-rate: 6000
     use-async-lighting: true
     enable-zombie-pigmen-portal-spawns: true
