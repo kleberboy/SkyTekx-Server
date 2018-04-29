@@ -22,8 +22,8 @@ settings:
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: -1
-  fullMatchRate: 10
   player-shuffle: 0
+  fullMatchRate: 10
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
@@ -91,11 +91,11 @@ world-settings:
       tile: 50
       entity: 50
     max-tnt-per-tick: 100
-    view-distance: 10
+    arrow-despawn-rate: 1200
     item-despawn-rate: 6000
-    zombie-aggressive-towards-villager: true
-    enable-zombie-pigmen-portal-spawns: true
-    use-async-lighting: true
     chunks-per-tick: 650
     clear-tick-list: false
-    arrow-despawn-rate: 1200
+    view-distance: 10
+    zombie-aggressive-towards-villager: true
+    use-async-lighting: true
+    enable-zombie-pigmen-portal-spawns: true
