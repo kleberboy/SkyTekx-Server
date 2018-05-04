@@ -94,6 +94,9 @@ world-settings:
     powercrystals-minefactoryreloaded-tile-machine-TileEntityChunkLoader:
       tick-no-players: false
       tick-interval: 1
+    com-brandon3055-draconicevolution-common-tileentities-TileSunDial:
+      tick-no-players: false
+      tick-interval: 1
     net-meteor-common-tileentity-TileEntityMeteorShield:
       tick-no-players: false
       tick-interval: 1
@@ -256,6 +259,9 @@ world-settings:
     com-brandon3055-draconicevolution-common-tileentities-multiblocktiles-TileEnergyStorageCore:
       tick-no-players: false
       tick-interval: 1
+    thaumcraft-common-tiles-TileInfusionMatrix:
+      tick-no-players: false
+      tick-interval: 1
     com-rwtema-extrautils-tileentity-transfernodes-TileEntityTransferNodeLiquid:
       tick-no-players: false
       tick-interval: 1
@@ -349,34 +355,25 @@ world-settings:
     ic2-core-block-wiring-TileEntityElectricBatBox:
       tick-no-players: false
       tick-interval: 1
-    net-mcft-copy-betterstorage-tile-entity-TileEntityBackpack:
-      tick-no-players: false
-      tick-interval: 1
-    advsolar-common-tiles-TileEntityMolecularTransformer:
-      tick-no-players: false
-      tick-interval: 1
-    advsolar-common-tiles-TileEntityAdvancedSolarPanel:
-      tick-no-players: false
-      tick-interval: 1
     advsolar-common-tiles-TileEntityUltimateSolarPanel:
       tick-no-players: false
       tick-interval: 1
     cpw-mods-ironchest-TileEntityGoldChest:
       tick-no-players: false
       tick-interval: 1
-    com-brandon3055-draconicevolution-common-tileentities-TileGrinder:
+    advsolar-common-tiles-TileEntityAdvancedSolarPanel:
       tick-no-players: false
       tick-interval: 1
-    ic2-core-block-machine-tileentity-TileEntityMacerator:
+    advsolar-common-tiles-TileEntityMolecularTransformer:
+      tick-no-players: false
+      tick-interval: 1
+    com-brandon3055-draconicevolution-common-tileentities-TileGrinder:
       tick-no-players: false
       tick-interval: 1
     ic2-core-block-wiring-TileEntityElectricMFE:
       tick-no-players: false
       tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
-      tick-no-players: false
-      tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
+    ic2-core-block-machine-tileentity-TileEntityMacerator:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-slicensplice-TileSliceAndSplice:
@@ -403,10 +400,16 @@ world-settings:
     vazkii-botania-common-block-tile-TileAlfPortal:
       tick-no-players: false
       tick-interval: 1
+    thaumcraft-common-tiles-TileCrucible:
+      tick-no-players: false
+      tick-interval: 1
     thaumcraft-common-tiles-TileArcaneWorkbench:
       tick-no-players: false
       tick-interval: 1
     jds-bibliowood-naturawood-blocks-TETable:
+      tick-no-players: false
+      tick-interval: 1
+    net-mcft-copy-betterstorage-tile-entity-TileEntityBackpack:
       tick-no-players: false
       tick-interval: 1
     vazkii-botania-common-block-tile-TileIncensePlate:
@@ -415,13 +418,19 @@ world-settings:
     thaumcraft-common-tiles-TileResearchTable:
       tick-no-players: false
       tick-interval: 1
+    net-minecraft-tileentity-TileEntityEnchantmentTable:
+      tick-no-players: false
+      tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
+      tick-no-players: false
+      tick-interval: 1
     thaumcraft-common-tiles-TileCrystal:
       tick-no-players: false
       tick-interval: 1
     openblocks-common-tileentity-TileEntityGrave:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityEnchantmentTable:
       tick-no-players: false
       tick-interval: 1
     ic2-core-block-machine-tileentity-TileEntityCanner:
@@ -440,9 +449,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     ic2-core-block-machine-tileentity-TileEntityElectricFurnace:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileCrucible:
       tick-no-players: false
       tick-interval: 1
     mods-railcraft-common-blocks-machine-alpha-TileRollingMachine:
