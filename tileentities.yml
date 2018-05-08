@@ -265,19 +265,10 @@ world-settings:
     openblocks-common-tileentity-TileEntityTank:
       tick-no-players: false
       tick-interval: 1
-    net-mcft-copy-betterstorage-tile-entity-TileEntityReinforcedChest:
-      tick-no-players: false
-      tick-interval: 1
-    cpw-mods-ironchest-TileEntityDiamondChest:
-      tick-no-players: false
-      tick-interval: 1
-    vazkii-botania-common-block-tile-TilePylon:
+    mods-railcraft-common-blocks-machine-beta-TileBoilerFireboxSolid:
       tick-no-players: false
       tick-interval: 1
     mods-railcraft-common-blocks-machine-beta-TileBoilerTankHigh:
-      tick-no-players: false
-      tick-interval: 1
-    mods-railcraft-common-blocks-machine-beta-TileBoilerFireboxSolid:
       tick-no-players: false
       tick-interval: 1
     mods-railcraft-common-blocks-machine-alpha-TileCokeOven:
@@ -343,16 +334,16 @@ world-settings:
     ic2-core-block-wiring-TileEntityElectricBatBox:
       tick-no-players: false
       tick-interval: 1
-    openblocks-common-tileentity-TileEntityBlockBreaker:
+    net-mcft-copy-betterstorage-tile-entity-TileEntityReinforcedChest:
       tick-no-players: false
       tick-interval: 1
-    cpw-mods-ironchest-TileEntityGoldChest:
+    cpw-mods-ironchest-TileEntityDiamondChest:
       tick-no-players: false
       tick-interval: 1
-    net-minecraft-tileentity-TileEntityBeacon:
+    vazkii-botania-common-block-tile-TilePylon:
       tick-no-players: false
       tick-interval: 1
-    openblocks-common-tileentity-TileEntityGrave:
+    vazkii-botania-common-block-tile-TileAlfPortal:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileCrucible:
@@ -368,9 +359,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileResearchTable:
-      tick-no-players: false
-      tick-interval: 1
-    vazkii-botania-common-block-tile-TileAlfPortal:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-slicensplice-TileSliceAndSplice:
@@ -394,13 +382,25 @@ world-settings:
     cofh-thermalexpansion-block-machine-TileCrucible:
       tick-no-players: false
       tick-interval: 1
-    net-minecraft-tileentity-TileEntityEnchantmentTable:
-      tick-no-players: false
-      tick-interval: 1
     thaumcraft-common-tiles-TileInfusionMatrix:
       tick-no-players: false
       tick-interval: 1
+    net-minecraft-tileentity-TileEntityEnchantmentTable:
+      tick-no-players: false
+      tick-interval: 1
     com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    openblocks-common-tileentity-TileEntityBlockBreaker:
+      tick-no-players: false
+      tick-interval: 1
+    cpw-mods-ironchest-TileEntityGoldChest:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityBeacon:
+      tick-no-players: false
+      tick-interval: 1
+    openblocks-common-tileentity-TileEntityGrave:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-generator-stirling-TileEntityStirlingGenerator:
