@@ -70,48 +70,48 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-meteors-MeteorsMod: true
-    worldgen-ExtrabiomesXL-VineGenerator: true
-    worldgen-ImmersiveEngineering-IEWorldGen: true
-    worldgen-CoFHCore-WorldHandler: true
-    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
-    worldgen-DraconicEvolution-DraconicWorldGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-ASRuins-RuinsWorldGenerator: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-ExtrabiomesXL-LeafPileGenerator: true
-    worldgen-magicalcrops-WorldGenEssenceNether: true
-    worldgen-GalacticraftCore-OverworldGenerator: true
-    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
-    worldgen-magicalcrops-WorldGenEssence: true
-    worldgen-IC2-IC2: true
-    worldgen-ProjectZuluCore-FeatureGenerator: true
-    worldgen-chocolateQuest-WorldGeneratorNew: true
-    worldgen-ExtrabiomesXL-QuicksandGenerator: true
-    worldgen-harvestcraft-WorldGenPamSalt: true
-    worldgen-ExtrabiomesXL-OilGenerator: true
-    worldgen-chisel-GeneratorChisel: true
-    worldgen-harvestcraft-PamBeeGenerator: true
-    worldgen-ExtrabiomesXL-FlowerGenerator: true
-    worldgen-Natura-BaseTreeWorldgen: true
-    worldgen-Natura-BaseCloudWorldgen: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-BattleTowers-WorldGenHandler: true
-    worldgen-ExtrabiomesXL-EelGrassGenerator: true
-    worldgen-ExtrabiomesXL-LegendOakGenerator: true
     worldgen-ExtrabiomesXL-MountainDesertGenerator: true
-    worldgen-witchery-WitcheryWorldGenerator: true
     worldgen-Natura-BaseCropWorldgen: true
     worldgen-hexxitgear-HGWorldGen: true
+    worldgen-witchery-WitcheryWorldGenerator: true
+    worldgen-harvestcraft-PamBeeGenerator: true
+    worldgen-ExtrabiomesXL-FlowerGenerator: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-DraconicEvolution-DraconicWorldGenerator: true
+    worldgen-ExtrabiomesXL-LegendOakGenerator: true
     worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-ExtrabiomesXL-CatTailGenerator: true
-    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-CoFHCore-WorldHandler: true
+    worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-chocolateQuest-WorldGeneratorNew: true
+    worldgen-meteors-MeteorsMod: true
+    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
+    worldgen-Natura-BaseCloudWorldgen: true
+    worldgen-ExtrabiomesXL-LeafPileGenerator: true
+    worldgen-chisel-GeneratorChisel: true
+    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-harvestcraft-WorldGenPamSalt: true
+    worldgen-TConstruct-SlimeIslandGen: true
     worldgen-magicalcrops-WorldGenEssenceEnd: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
-    worldgen-chococraft-WorldGenGysahls: true
+    worldgen-ExtrabiomesXL-OilGenerator: true
+    worldgen-ExtrabiomesXL-QuicksandGenerator: true
+    worldgen-ExtrabiomesXL-CatTailGenerator: true
+    worldgen-harvestcraft-PamGardenGenerator: true
     worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-IC2-IC2: true
+    worldgen-ProjectZuluCore-FeatureGenerator: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-ASRuins-RuinsWorldGenerator: true
+    worldgen-ExtrabiomesXL-VineGenerator: true
+    worldgen-GalacticraftCore-OverworldGenerator: true
+    worldgen-BattleTowers-WorldGenHandler: true
+    worldgen-magicalcrops-WorldGenEssenceNether: true
+    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
+    worldgen-magicalcrops-WorldGenEssence: true
+    worldgen-ExtrabiomesXL-EelGrassGenerator: true
+    worldgen-chococraft-WorldGenGysahls: true
+    worldgen-BigReactors-BRWorldGenerator: true
   max-players-visible: -1
 plugin-settings:
   default:

@@ -2,7 +2,7 @@ worlds:
   DIM-112:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: DIM-112
     color: WHITE
     style: NORMAL
     pvp: 'true'
