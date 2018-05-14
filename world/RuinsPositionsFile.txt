@@ -953,6 +953,7 @@
 1257 64 -1773 1272 71 -1758 Mausoleum.tml
 1276 72 149 1279 75 152 EmeraldOreOutcrop.tml
 1278 66 242 1329 79 263 AlchemistsDungeon.tml
+1286 75 -3699 1298 79 -3687 AncientFountain.tml
 1299 73 -3597 1307 81 -3586 MinersHut.tml
 1313 67 236 1325 77 248 VolcanicVent.tml
 1321 46 -3374 1332 58 -3338 SunkenShip-v3.tml
