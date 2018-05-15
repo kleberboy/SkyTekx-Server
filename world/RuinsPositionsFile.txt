@@ -622,7 +622,9 @@
 -1677 31 2499 -1669 44 2525 shipwreck.tml
 -1639 170 2339 -1624 177 2348 Archway.tml
 -1634 83 576 -1629 88 581 CaveSpiderBurrow.tml
+-1625 64 -120 -1620 69 -115 CaveSpiderBurrow.tml
 -1623 36 -875 -1612 48 -839 SunkenShip-v3.tml
+-1617 66 -124 -1614 70 -122 SkeletonHeadStatue.tml
 -1606 77 809 -1603 80 812 StoneGrill.tml
 -1598 77 735 -1591 85 742 Outcrop.tml
 -1589 79 708 -1582 87 715 Outcrop.tml
