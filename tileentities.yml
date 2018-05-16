@@ -349,10 +349,10 @@ world-settings:
     ic2-core-block-wiring-TileEntityElectricBatBox:
       tick-no-players: false
       tick-interval: 1
-    net-minecraft-tileentity-TileEntityMobSpawner:
+    crazypants-enderio-machine-killera-TileKillerJoe:
       tick-no-players: false
       tick-interval: 1
-    crazypants-enderio-machine-killera-TileKillerJoe:
+    net-minecraft-tileentity-TileEntityMobSpawner:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-vat-TileVat:
@@ -364,7 +364,10 @@ world-settings:
     crazypants-enderio-machine-obelisk-xp-TileExperienceObelisk:
       tick-no-players: false
       tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
+    openblocks-common-tileentity-TileEntitySprinkler:
+      tick-no-players: false
+      tick-interval: 1
+    vazkii-botania-common-block-tile-TileAlfPortal:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-slicensplice-TileSliceAndSplice:
@@ -386,9 +389,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     cofh-thermalexpansion-block-machine-TileCrucible:
-      tick-no-players: false
-      tick-interval: 1
-    vazkii-botania-common-block-tile-TileAlfPortal:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileCrucible:
@@ -418,7 +418,7 @@ world-settings:
     com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
       tick-no-players: false
       tick-interval: 1
-    openblocks-common-tileentity-TileEntitySprinkler:
+    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
       tick-no-players: false
       tick-interval: 1
     cpw-mods-ironchest-TileEntityGoldChest:
