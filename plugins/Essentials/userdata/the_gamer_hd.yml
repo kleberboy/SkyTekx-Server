@@ -1,9 +1,9 @@
 uuid: 81e35ce1-0165-4eca-9135-6f5c7cc3ea76
 timestamps:
-  login: 1526306763024
-  logout: 1526312407771
+  login: 1526486957425
+  logout: 1526493758701
   lastteleport: 1526145974720
-ipAddress: 213.188.126.217
+ipAddress: 213.157.27.40
 lastlocation:
   world: DIM-112
   x: -546.8689256702686
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 12.149997
 logoutlocation:
   world: world
-  x: 77.69656350582088
+  x: 78.25191734698801
   y: 55.0
-  z: 178.75235604138123
-  yaw: 42.30022
-  pitch: -10.349954
+  z: 179.48074357598063
+  yaw: 74.40021
+  pitch: 22.800037
 homes:
   home:
     world: world

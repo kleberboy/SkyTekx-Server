@@ -671,7 +671,9 @@
 -795 47 627 -784 59 663 SunkenShip-v3.tml
 -787 68 -1520 -784 71 -1517 EmeraldOreOutcrop.tml
 -785 46 684 -774 58 720 SunkenShip-v3.tml
+-781 62 1178 -751 100 1208 PirateShip.tml
 -773 45 415 -737 65 426 SunkenShip-v2.tml
+-771 30 1068 -735 50 1079 SunkenShip-v2.tml
 -767 70 -1215 -764 75 -1211 StonePillar.tml
 -762 79 4563 -759 83 4565 SkeletonHeadStatue.tml
 -743 45 426 -732 65 462 SunkenShip-v2.tml
@@ -692,14 +694,18 @@
 -640 67 4674 -628 71 4686 AncientFountain.tml
 -633 30 756 -597 50 767 SunkenShip-v2.tml
 -625 83 4143 -622 86 4146 StoneGrill.tml
+-624 30 1117 -588 42 1128 SunkenShip-v3.tml
 -621 62 573 -618 65 576 EmeraldOreOutcrop.tml
+-621 31 1081 -610 43 1117 SunkenShip-v3.tml
 -592 71 4552 -585 74 4559 TinyFarmField.tml
 -581 87 4397 -574 89 4402 Melonfield.tml
+-581 34 1326 -555 47 1334 shipwreck.tml
 -569 77 -1972 -567 81 -1969 SkeletonHeadStatue.tml
 -566 87 4040 -564 91 4043 SkeletonHeadStatue.tml
 -556 74 4204 -552 79 4207 StonePillar.tml
 -545 70 4628 -538 72 4633 PumpkinField.tml
 -543 70 4474 -540 73 4477 EmeraldOreOutcrop.tml
+-538 62 1218 -533 66 1225 ZombieHut.tml
 -536 71 4203 -524 81 4215 VolcanicVent.tml
 -521 74 -1821 -509 78 -1809 AncientFountain.tml
 -519 75 4304 -509 79 4314 RuinedSmallFountainDiagonal.tml
@@ -715,6 +721,7 @@
 -443 69 4403 -431 73 4415 AncientFountain.tml
 -440 62 1043 -408 76 1075 Floater.tml
 -439 67 3016 -432 69 3021 Melonfield.tml
+-432 63 1289 -425 65 1294 PumpkinField.tml
 -416 63 4309 -411 65 4316 PumpkinField.tml
 -408 63 3235 -393 70 3244 Archway.tml
 -399 69 3333 -387 73 3345 AncientFountain.tml
@@ -743,6 +750,7 @@
 -286 77 4114 -274 89 4130 Barn-intact.tml
 -285 67 4430 -282 70 4433 StoneGrill.tml
 -283 78 4018 -274 92 4027 MoaiHead.tml
+-282 31 1269 -274 44 1295 shipwreck.tml
 -275 68 2561 -260 75 2570 Archway.tml
 -269 70 4637 -266 73 4640 EmeraldOreOutcrop.tml
 -264 65 4850 -252 75 4862 VolcanicVent.tml
@@ -818,6 +826,7 @@
 11 65 2829 18 69 2834 ZombieHut.tml
 11 79 2547 14 83 2549 SkeletonHeadStatue.tml
 22 66 3562 34 70 3574 AncientFountain.tml
+31 37 1085 57 50 1093 shipwreck.tml
 36 63 3826 41 65 3833 Melonfield.tml
 38 71 4376 50 81 4388 VolcanicVent.tml
 40 71 3917 45 76 3922 CaveSpiderBurrow.tml
