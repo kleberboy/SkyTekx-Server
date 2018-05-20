@@ -157,6 +157,24 @@ world-settings:
     crazypants-enderio-machine-farm-TileFarmStation:
       tick-no-players: false
       tick-interval: 1
+    com-pam-harvestcraft-TileEntityPamPresser:
+      tick-no-players: false
+      tick-interval: 1
+    exnihilo-blocks-tileentities-TileEntitySieve:
+      tick-no-players: false
+      tick-interval: 1
+    net-blay09-mods-excompressum-tile-TileEntityHeavySieve:
+      tick-no-players: false
+      tick-interval: 1
+    powercrystals-minefactoryreloaded-tile-machine-TileEntityFisher:
+      tick-no-players: false
+      tick-interval: 1
+    jds-bibliowood-naturawood-blocks-TEClock:
+      tick-no-players: false
+      tick-interval: 1
+    openblocks-common-tileentity-TileEntityCannon:
+      tick-no-players: false
+      tick-interval: 1
     net-blay09-mods-excompressum-tile-TileEntityAutoHammer:
       tick-no-players: false
       tick-interval: 1
@@ -187,28 +205,7 @@ world-settings:
     vazkii-botania-common-block-tile-TileTinyPotato:
       tick-no-players: false
       tick-interval: 1
-    crazypants-enderio-machine-monitor-TilePowerMonitor:
-      tick-no-players: false
-      tick-interval: 1
     crazypants-enderio-machine-capbank-TileCapBank:
-      tick-no-players: false
-      tick-interval: 1
-    com-pam-harvestcraft-TileEntityPamPresser:
-      tick-no-players: false
-      tick-interval: 1
-    exnihilo-blocks-tileentities-TileEntitySieve:
-      tick-no-players: false
-      tick-interval: 1
-    net-blay09-mods-excompressum-tile-TileEntityHeavySieve:
-      tick-no-players: false
-      tick-interval: 1
-    powercrystals-minefactoryreloaded-tile-machine-TileEntityFisher:
-      tick-no-players: false
-      tick-interval: 1
-    jds-bibliowood-naturawood-blocks-TEClock:
-      tick-no-players: false
-      tick-interval: 1
-    openblocks-common-tileentity-TileEntityCannon:
       tick-no-players: false
       tick-interval: 1
     net-minecraft-tileentity-TileEntityFurnace:
@@ -379,6 +376,9 @@ world-settings:
     ic2-core-block-wiring-TileEntityElectricBatBox:
       tick-no-players: false
       tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
+      tick-no-players: false
+      tick-interval: 1
     crazypants-enderio-machine-slicensplice-TileSliceAndSplice:
       tick-no-players: false
       tick-interval: 1
@@ -421,7 +421,43 @@ world-settings:
     net-minecraft-tileentity-TileEntityEnchantmentTable:
       tick-no-players: false
       tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
+    thaumcraft-common-tiles-TileEldritchAltar:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileEldritchObelisk:
+      tick-no-players: false
+      tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockBannerStandTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    com-emoniph-witchery-worldgen-WorldHandlerVillageDistrictWallBlockVillageWallGenTileEntityVillageWallGen:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityPiston:
+      tick-no-players: false
+      tick-interval: 1
+    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
+      tick-no-players: false
+      tick-interval: 1
+    mods-railcraft-common-blocks-machine-alpha-TileRollingMachine:
+      tick-no-players: false
+      tick-interval: 1
+    mods-railcraft-common-blocks-machine-beta-TileEngineSteamHobby:
+      tick-no-players: false
+      tick-interval: 1
+    cpw-mods-ironchest-TileEntityGoldChest:
+      tick-no-players: false
+      tick-interval: 1
+    openblocks-common-tileentity-TileEntityBlockBreaker:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityBeacon:
+      tick-no-players: false
+      tick-interval: 1
+    openblocks-common-tileentity-TileEntityGrave:
+      tick-no-players: false
+      tick-interval: 1
+    crazypants-enderio-machine-monitor-TilePowerMonitor:
       tick-no-players: false
       tick-interval: 1
     TileMultipartcmp6:
@@ -430,16 +466,7 @@ world-settings:
     openblocks-common-tileentity-TileEntitySprinkler:
       tick-no-players: false
       tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockAltarTileEntity:
-      tick-no-players: false
-      tick-interval: 1
     cpw-mods-ironchest-TileEntityIronChest:
-      tick-no-players: false
-      tick-interval: 1
-    cpw-mods-ironchest-TileEntityGoldChest:
-      tick-no-players: false
-      tick-interval: 1
-    openblocks-common-tileentity-TileEntityGrave:
       tick-no-players: false
       tick-interval: 1
     advsolar-common-tiles-TileEntityUltimateSolarPanel:
@@ -466,12 +493,6 @@ world-settings:
     ic2-core-block-machine-tileentity-TileEntityMacerator:
       tick-no-players: false
       tick-interval: 1
-    thaumcraft-common-tiles-TileEldritchObelisk:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileEldritchAltar:
-      tick-no-players: false
-      tick-interval: 1
     crazypants-enderio-machine-generator-stirling-TileEntityStirlingGenerator:
       tick-no-players: false
       tick-interval: 1
@@ -488,9 +509,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     ic2-core-block-machine-tileentity-TileEntityCanner:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityPiston:
       tick-no-players: false
       tick-interval: 1
     micdoodle8-mods-galacticraft-core-tile-TileEntityMulti:
@@ -538,15 +556,6 @@ world-settings:
     TileMultipartcmp4:
       tick-no-players: false
       tick-interval: 1
-    mods-railcraft-common-blocks-machine-alpha-TileRollingMachine:
-      tick-no-players: false
-      tick-interval: 1
-    mods-railcraft-common-blocks-machine-beta-TileEngineSteamHobby:
-      tick-no-players: false
-      tick-interval: 1
-    com-chocolate-chocolateQuest-block-BlockBannerStandTileEntity:
-      tick-no-players: false
-      tick-interval: 1
     TileMultipartcmp8:
       tick-no-players: false
       tick-interval: 1
@@ -565,12 +574,6 @@ world-settings:
     powercrystals-minefactoryreloaded-tile-machine-TileEntityBlockPlacer:
       tick-no-players: false
       tick-interval: 1
-    openblocks-common-tileentity-TileEntityBlockBreaker:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityBeacon:
-      tick-no-players: false
-      tick-interval: 1
     codechicken-translocator-TileCraftingGrid:
       tick-no-players: false
       tick-interval: 1
@@ -578,9 +581,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     openblocks-common-tileentity-TileEntityBlockPlacer:
-      tick-no-players: false
-      tick-interval: 1
-    com-emoniph-witchery-worldgen-WorldHandlerVillageDistrictWallBlockVillageWallGenTileEntityVillageWallGen:
       tick-no-players: false
       tick-interval: 1
     blusunrize-immersiveengineering-common-blocks-wooden-TileEntityWoodenCrate:
