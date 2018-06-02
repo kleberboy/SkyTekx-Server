@@ -20,7 +20,7 @@ settings:
   sample-count: 12
   timeout-time: 90
   restart-on-crash: true
-  restart-script: ./start.sh
+  restart-script: ./RUN.sh
   netty-threads: -1
   player-shuffle: 0
   fullMatchRate: 10
