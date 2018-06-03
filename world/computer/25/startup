@@ -1,0 +1,72 @@
+-- Coder: Julian B., @langeweile1533, Copyyy
+os.loadAPI("button")
+local m = peripheral.wrap("back")
+local mx, my = m.getSize()
+function getClick()
+  local event, side, x, y = os.pullEvent()
+  if event == "monitor_touch" then
+    button.checkxy(x, y)
+  end
+end
+function reactor1()
+  button.toggleButton("Reactor 1")    
+  if button.active("Reactor 1") then
+   -- print("now on")
+    rs.setOutput("left", true)
+  else
+   -- print("now off")
+    rs.setOutput("left", false)
+  end
+  button.save()
+  addText()      
+end
+function reactor2()
+  button.toggleButton("Reactor 2")
+  if button.active("Reactor 2") then
+  --  print("now on")
+    rs.setOutput("right", true)
+  else
+  --  print("now off")
+    rs.setOutput("right", false)
+  end
+  button.save()
+  addText()
+end      
+function fillMainTable()
+  m.clear()
+  button.clearTable()
+  button.setTable("Reactor 1", reactor1, "", 2, mx/2, 2, my-1)
+  button.setTable("Reactor 2", reactor2, "", (mx/2)+2, mx-0.5, 2, my-1)
+                                          --2,mx/2-1 -- mx/2+2, mx-0.5                    
+  button.screen()
+end
+function addText()
+  for i = 1,2 do
+    m.setTextColor(colors.white)
+    if i == 1 then
+      local textr = "Maxi"
+      if button.active("Reactor 1") then
+        m.setBackgroundColor(colors.lime)
+      else
+        m.setBackgroundColor(colors.red)
+      end
+      m.setCursorPos(mx/4-#textr/2+1.75, my/2+1)    
+      m.write(textr)
+    else
+      local textr = "Mini"
+      if button.active("Reactor 2") then
+        m.setBackgroundColor(colors.lime)
+      else
+        m.setBackgroundColor(colors.red)
+      end
+      m.setCursorPos(mx*0.75-#textr/2+1, my/2+1)      
+      m.write(textr)
+    end
+  end  
+end  
+fillMainTable()
+button.load()
+addText()
+while true do
+  getClick()
+end

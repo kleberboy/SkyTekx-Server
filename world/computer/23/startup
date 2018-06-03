@@ -1,0 +1,30 @@
+local hID = 0 --# The id you want to receive from( I added this so you don't get messages from other computers that can change the output )
+
+
+--# Opening all modems sides so you can use rednet
+        for _,side in pairs(rs.getSides()) do[/size]
+                if peripheral.getType(side) == "modem" then
+                        rednet.open(side)
+                end
+        end
+
+local function changeOutput()
+
+        local id, msg
+        repeat
+                id, msg = rednet.receive()
+        until id == hID
+
+        if msg == "turn_off" then
+                rs.setOutput("right", true)
+
+        elseif msg == "turn_on" then
+                rs.setOutput("right", false)
+        end
+end
+
+
+--# Running the function in a loop as an example
+while true do
+        changeOutput()
+end
