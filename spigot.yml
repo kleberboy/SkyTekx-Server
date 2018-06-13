@@ -11,6 +11,9 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 7
+commands:
+  log: true
+  tab-complete: true
 settings:
   bungeecord: false
   late-bind: false
@@ -19,8 +22,8 @@ settings:
   restart-on-crash: true
   restart-script: ./RUN.sh
   netty-threads: -1
-  player-shuffle: 0
   fullMatchRate: 10
+  player-shuffle: 0
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
@@ -28,9 +31,6 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client! Please use {}
   outdated-server: Outdated server! I'm still on {}
-commands:
-  log: true
-  tab-complete: true
 stats:
   disable-saving: false
   forced-stats: {}
@@ -93,9 +93,9 @@ world-settings:
     max-tnt-per-tick: 100
     chunks-per-tick: 650
     clear-tick-list: false
-    enable-zombie-pigmen-portal-spawns: true
     use-async-lighting: true
-    view-distance: 10
     item-despawn-rate: 6000
+    view-distance: 10
     arrow-despawn-rate: 1200
     zombie-aggressive-towards-villager: true
+    enable-zombie-pigmen-portal-spawns: true
