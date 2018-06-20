@@ -11,19 +11,19 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 7
+commands:
+  log: true
+  tab-complete: true
 settings:
   bungeecord: false
   late-bind: false
   sample-count: 12
-  netty-threads: -1
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./RUN.sh
+  netty-threads: -1
   player-shuffle: 0
   fullMatchRate: 10
-commands:
-  log: true
-  tab-complete: true
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
@@ -44,17 +44,6 @@ world-settings:
       misc: 32
       other: 64
     mob-spawn-range: 4
-    max-tnt-per-tick: 100
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    random-light-updates: false
-    save-structure-info: true
-    max-bulk-chunks: 5
-    max-entity-collisions: 8
-    max-tick-time:
-      tile: 50
-      entity: 50
     merge-radius:
       item: 2.5
       exp: 3.0
@@ -91,11 +80,22 @@ world-settings:
       animals: 32
       monsters: 32
       misc: 16
-    view-distance: 10
-    use-async-lighting: true
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    random-light-updates: false
+    save-structure-info: true
+    max-bulk-chunks: 5
+    max-entity-collisions: 8
+    max-tick-time:
+      tile: 50
+      entity: 50
+    max-tnt-per-tick: 100
     chunks-per-tick: 650
     clear-tick-list: false
     item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
+    use-async-lighting: true
+    view-distance: 10
     enable-zombie-pigmen-portal-spawns: true
+    arrow-despawn-rate: 1200
     zombie-aggressive-towards-villager: true
