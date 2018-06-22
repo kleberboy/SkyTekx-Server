@@ -1,9 +1,9 @@
 uuid: bcb341ca-4a16-4bda-ad95-ad56b03f3dcb
 timestamps:
-  login: 1529512022709
-  logout: 1529512589010
+  login: 1529593794258
+  logout: 1529593855320
   lastteleport: 1529426472470
-ipAddress: 5.100.45.254
+ipAddress: 5.100.34.219
 lastlocation:
   world: world
   x: 286.193573679712
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 39.927044
 logoutlocation:
   world: world
-  x: -2043.8734777744098
+  x: -2110.0861220028632
   y: 31.0
-  z: -522.5325285163875
-  yaw: -190.87914
-  pitch: 33.330273
+  z: -520.3782059218076
+  yaw: -184.7569
+  pitch: 2.9856951
 afk: false
 homes:
   home:
