@@ -11,19 +11,19 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 7
+commands:
+  log: true
+  tab-complete: true
 settings:
-  netty-threads: -1
   bungeecord: false
   late-bind: false
   sample-count: 12
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./RUN.sh
+  netty-threads: -1
   player-shuffle: 0
   fullMatchRate: 10
-commands:
-  log: true
-  tab-complete: true
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
@@ -37,12 +37,6 @@ stats:
 world-settings:
   default:
     verbose: false
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
     mob-spawn-range: 4
     merge-radius:
       item: 2.5
@@ -91,6 +85,12 @@ world-settings:
       tile: 50
       entity: 50
     max-tnt-per-tick: 100
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     view-distance: 10
     use-async-lighting: true
     item-despawn-rate: 6000
