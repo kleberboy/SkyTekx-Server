@@ -241,13 +241,16 @@ world-settings:
     thaumcraft-common-tiles-TileInfusionMatrix:
       tick-no-players: false
       tick-interval: 1
+    net-minecraft-tileentity-TileEntityFurnace:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileNode:
+      tick-no-players: false
+      tick-interval: 1
     com-nauktis-solarflux-blocks-SolarPanelTileEntity:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-light-TileElectricLight:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
     com-mia-props-common-entities-TileShowerHead:
@@ -257,9 +260,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     net-minecraft-tileentity-TileEntityEnderChest:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityFurnace:
       tick-no-players: false
       tick-interval: 1
     net-minecraft-tileentity-TileEntityBrewingStand:
