@@ -12,18 +12,15 @@
 
 config-version: 7
 settings:
-  sample-count: 12
-  bungeecord: false
-  late-bind: false
-  netty-threads: -1
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./RUN.sh
-  fullMatchRate: 10
+  bungeecord: false
+  late-bind: false
+  sample-count: 12
+  netty-threads: -1
   player-shuffle: 0
-commands:
-  log: true
-  tab-complete: true
+  fullMatchRate: 10
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
@@ -31,19 +28,15 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client! Please use {}
   outdated-server: Outdated server! I'm still on {}
+commands:
+  log: true
+  tab-complete: true
 stats:
   disable-saving: false
   forced-stats: {}
 world-settings:
   default:
     verbose: false
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    mob-spawn-range: 4
     merge-radius:
       item: 2.5
       exp: 3.0
@@ -91,11 +84,18 @@ world-settings:
       tile: 50
       entity: 50
     max-tnt-per-tick: 100
-    view-distance: 10
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    mob-spawn-range: 4
+    use-async-lighting: true
     arrow-despawn-rate: 1200
+    item-despawn-rate: 6000
+    view-distance: 10
     chunks-per-tick: 650
     clear-tick-list: false
-    item-despawn-rate: 6000
-    use-async-lighting: true
     enable-zombie-pigmen-portal-spawns: true
     zombie-aggressive-towards-villager: true
