@@ -37,9 +37,7 @@ stats:
 world-settings:
   default:
     verbose: false
-    merge-radius:
-      item: 2.5
-      exp: 3.0
+    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -78,6 +76,9 @@ world-settings:
       hopper-check: 8
     random-light-updates: false
     save-structure-info: true
+    merge-radius:
+      item: 2.5
+      exp: 3.0
     max-bulk-chunks: 5
     max-entity-collisions: 8
     max-tick-time:
@@ -90,12 +91,11 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
-    mob-spawn-range: 4
+    view-distance: 10
     chunks-per-tick: 650
     clear-tick-list: false
-    view-distance: 10
     use-async-lighting: true
-    zombie-aggressive-towards-villager: true
-    enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: true
+    zombie-aggressive-towards-villager: true
