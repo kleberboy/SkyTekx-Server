@@ -11,19 +11,19 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 7
-commands:
-  log: true
-  tab-complete: true
 settings:
+  netty-threads: -1
   bungeecord: false
   late-bind: false
   sample-count: 12
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./RUN.sh
-  netty-threads: -1
   player-shuffle: 0
   fullMatchRate: 10
+commands:
+  log: true
+  tab-complete: true
 messages:
   restart: Server is restarting
   whitelist: You are not whitelisted on this server!
@@ -38,6 +38,7 @@ world-settings:
   default:
     verbose: false
     mob-spawn-range: 4
+    save-structure-info: true
     merge-radius:
       item: 2.5
       exp: 3.0
@@ -78,7 +79,6 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 8
     random-light-updates: false
-    save-structure-info: true
     max-bulk-chunks: 5
     max-entity-collisions: 8
     max-tick-time:
@@ -91,11 +91,11 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
-    view-distance: 10
-    arrow-despawn-rate: 1200
-    zombie-aggressive-towards-villager: true
     use-async-lighting: true
+    view-distance: 10
+    item-despawn-rate: 6000
     chunks-per-tick: 650
     clear-tick-list: false
-    item-despawn-rate: 6000
     enable-zombie-pigmen-portal-spawns: true
+    arrow-despawn-rate: 1200
+    zombie-aggressive-towards-villager: true
