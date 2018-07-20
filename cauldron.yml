@@ -70,48 +70,48 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-ExtrabiomesXL-OilGenerator: true
-    worldgen-Natura-BaseCloudWorldgen: true
-    worldgen-ExtrabiomesXL-LegendOakGenerator: true
-    worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-witchery-WitcheryWorldGenerator: true
-    worldgen-magicalcrops-WorldGenEssenceEnd: true
-    worldgen-ExtrabiomesXL-FlowerGenerator: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-ExtrabiomesXL-VineGenerator: true
-    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
-    worldgen-ASRuins-RuinsWorldGenerator: true
-    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
-    worldgen-ExtrabiomesXL-LeafPileGenerator: true
-    worldgen-harvestcraft-WorldGenPamSalt: true
-    worldgen-harvestcraft-PamBeeGenerator: true
-    worldgen-Natura-BaseCropWorldgen: true
-    worldgen-meteors-MeteorsMod: true
-    worldgen-IC2-IC2: true
-    worldgen-chisel-GeneratorChisel: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
     worldgen-GalacticraftCore-OverworldGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-ProjectZuluCore-FeatureGenerator: true
+    worldgen-ASRuins-RuinsWorldGenerator: true
     worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
-    worldgen-ExtrabiomesXL-EelGrassGenerator: true
-    worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-ExtrabiomesXL-CatTailGenerator: true
-    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
-    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-ExtrabiomesXL-LeafPileGenerator: true
+    worldgen-harvestcraft-PamBeeGenerator: true
+    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
+    worldgen-harvestcraft-WorldGenPamSalt: true
+    worldgen-IC2-IC2: true
     worldgen-CoFHCore-WorldHandler: true
-    worldgen-chocolateQuest-WorldGeneratorNew: true
+    worldgen-Natura-BaseCropWorldgen: true
+    worldgen-ProjectZuluCore-FeatureGenerator: true
+    worldgen-ExtrabiomesXL-CatTailGenerator: true
+    worldgen-ExtrabiomesXL-FlowerGenerator: true
     worldgen-magicalcrops-WorldGenEssenceNether: true
-    worldgen-ExtraUtilities-WorldGenEnderLillies: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-magicalcrops-WorldGenEssence: true
-    worldgen-ExtrabiomesXL-QuicksandGenerator: true
-    worldgen-DraconicEvolution-DraconicWorldGenerator: true
-    worldgen-BattleTowers-WorldGenHandler: true
-    worldgen-hexxitgear-HGWorldGen: true
-    worldgen-chococraft-WorldGenGysahls: true
-    worldgen-harvestcraft-PamTreeGenerator: true
     worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-ExtrabiomesXL-LegendOakGenerator: true
+    worldgen-ExtrabiomesXL-OilGenerator: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-Natura-BaseCloudWorldgen: true
+    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
+    worldgen-harvestcraft-PamGardenGenerator: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-chococraft-WorldGenGysahls: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-magicalcrops-WorldGenEssenceEnd: true
+    worldgen-DraconicEvolution-DraconicWorldGenerator: true
+    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-BattleTowers-WorldGenHandler: true
+    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-magicalcrops-WorldGenEssence: true
+    worldgen-ExtrabiomesXL-VineGenerator: true
+    worldgen-ExtrabiomesXL-EelGrassGenerator: true
+    worldgen-chisel-GeneratorChisel: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-meteors-MeteorsMod: true
+    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
+    worldgen-ExtrabiomesXL-QuicksandGenerator: true
+    worldgen-chocolateQuest-WorldGeneratorNew: true
+    worldgen-hexxitgear-HGWorldGen: true
+    worldgen-witchery-WitcheryWorldGenerator: true
   max-players-visible: -1
 plugin-settings:
   default:
