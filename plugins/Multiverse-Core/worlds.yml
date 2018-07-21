@@ -50,7 +50,7 @@ worlds:
   DIM-100:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: DIM-100
     color: WHITE
     style: NORMAL
     pvp: 'true'

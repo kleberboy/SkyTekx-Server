@@ -390,6 +390,7 @@
 576 127 278 581 129 285 Melonfield.tml
 600 127 -987 603 130 -984 EmeraldOreOutcrop.tml
 603 127 857 606 132 861 StonePillar.tml
+605 127 563 620 134 572 Archway.tml
 606 127 -92 609 130 -89 StoneGrill.tml
 607 127 754 610 130 757 EmeraldOreOutcrop.tml
 618 127 960 630 135 970 StoneHouseMruined.tml
@@ -405,6 +406,7 @@
 651 127 237 656 129 244 PumpkinField.tml
 669 127 -216 684 134 -201 Mausoleum.tml
 674 127 14 681 129 19 Melonfield.tml
+683 127 708 693 131 718 RuinedSmallFountainDiagonal.tml
 690 127 325 693 130 328 EmeraldOreOutcrop.tml
 692 127 -97 704 160 -85 OreSpire.tml
 693 127 -969 704 135 -961 MinersHut.tml
