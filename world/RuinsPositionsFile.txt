@@ -1072,6 +1072,8 @@
 -929 68 748 -922 76 755 Outcrop.tml
 -910 48 -1227 -884 61 -1219 shipwreck.tml
 -904 34 -903 -868 54 -892 SunkenShip-v2.tml
+-897 63 333 -885 67 345 AncientFountain.tml
+-883 62 352 -853 100 382 PirateShip.tml
 -855 62 730 -852 66 732 SkeletonHeadStatue.tml
 -841 75 -1035 -836 79 -1028 ZombieHut.tml
 -822 87 -1120 -819 90 -1117 EmeraldOreOutcrop.tml
