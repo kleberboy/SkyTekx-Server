@@ -1,0 +1,28 @@
+uuid: af6718ae-82b8-4c41-a28e-a555707fa868
+timestamps:
+  login: 1532402433816
+  lastteleport: 1532404487029
+  logout: 1532402423161
+ipAddress: 77.116.189.235
+lastlocation:
+  world: world
+  x: 786.6999999880791
+  y: 97.0
+  z: 787.3000000119209
+  yaw: -239.6997
+  pitch: 48.450047
+homes:
+  home:
+    world: world
+    x: 793.9789543718342
+    y: 96.0
+    z: 785.7930656442013
+    yaw: -290.39975
+    pitch: 20.250053
+logoutlocation:
+  world: world
+  x: 796.9105567791162
+  y: 91.0
+  z: 788.0636568183587
+  yaw: 107.25013
+  pitch: 19.950052

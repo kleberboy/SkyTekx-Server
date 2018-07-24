@@ -1479,6 +1479,8 @@
 1523 93 173 1528 98 178 CaveSpiderBurrow.tml
 1527 63 -1242 1530 66 -1239 EmeraldOreOutcrop.tml
 1527 64 -3454 1532 66 -3447 PumpkinField.tml
+1527 68 464 1534 71 471 TinyFarmField.tml
+1536 70 537 1543 72 542 PumpkinField.tml
 1539 109 56 1546 111 61 PumpkinField.tml
 1548 52 -1367 1559 64 -1331 SunkenShip-v3.tml
 1553 62 1230 1583 100 1260 PirateShip.tml

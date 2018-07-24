@@ -9,16 +9,46 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-2084 78 -2162 -2081 83 -2158 StonePillar.tml
+-1789 80 -2635 -1782 83 -2628 TinyFarmField.tml
+-1671 91 -2464 -1664 93 -2459 PumpkinField.tml
+-1637 82 -2387 -1634 85 -2384 EmeraldOreOutcrop.tml
+-1568 54 -2431 -1564 59 -2428 StonePillar.tml
+-1247 41 -3440 -1244 44 -3437 EmeraldOreOutcrop.tml
+-1246 63 -2923 -1243 67 -2921 SkeletonHeadStatue.tml
+-1242 72 -2837 -1232 84 -2829 ArrowTrapTomb.tml
+-1169 75 -2976 -1166 78 -2973 StoneGrill.tml
+-1158 70 -2842 -1155 73 -2839 EmeraldOreOutcrop.tml
+-1070 90 -3316 -1062 98 -3305 MinersHut.tml
 -947 90 207 -940 92 212 PumpkinField.tml
 -888 68 352 -885 71 355 EmeraldOreOutcrop.tml
+-850 41 -2684 -848 45 -2681 SkeletonHeadStatue.tml
+-769 63 -2690 -764 68 -2685 CaveSpiderBurrow.tml
+-765 69 -3009 -761 74 -3006 StonePillar.tml
+-706 77 -2507 -699 85 -2500 Outcrop.tml
+-690 72 -3085 -688 76 -3082 SkeletonHeadStatue.tml
+-665 70 -3015 -658 78 -3008 Outcrop.tml
+-621 94 -2537 -618 97 -2534 StoneGrill.tml
+-495 38 -786 -492 42 -784 SkeletonHeadStatue.tml
+-451 60 -2579 -448 65 -2575 StonePillar.tml
+-347 72 -2804 -340 80 -2797 Outcrop.tml
+-318 69 -2876 -314 74 -2873 StonePillar.tml
+-293 56 -1747 -286 64 -1740 Outcrop.tml
+-243 72 -2825 -240 76 -2823 SkeletonHeadStatue.tml
+-237 72 -2517 -225 82 -2505 VolcanicVent.tml
 -208 96 706 -205 99 709 EmeraldOreOutcrop.tml
+-131 68 -1443 -128 71 -1440 StoneGrill.tml
+-127 71 -2530 -125 75 -2527 SkeletonHeadStatue.tml
 -84 78 -82 -77 86 -75 Outcrop.tml
 -78 74 517 -75 78 519 SkeletonHeadStatue.tml
 -39 67 835 -36 70 838 StoneGrill.tml
 -33 58 57 -28 60 64 Melonfield.tml
+-15 88 -2275 -12 91 -2272 EmeraldOreOutcrop.tml
 -3 61 -19 1 66 -16 StonePillar.tml
 -2 61 -17 3 66 -12 CaveSpiderBurrow.tml
 4 54 350 7 57 353 EmeraldOreOutcrop.tml
+64 95 -1948 66 99 -1945 SkeletonHeadStatue.tml
+107 48 -2081 114 56 -2074 Outcrop.tml
 401 45 -145 405 50 -142 StonePillar.tml
 580 88 31 583 91 34 EmeraldOreOutcrop.tml
 604 52 -46 607 55 -43 StoneGrill.tml
