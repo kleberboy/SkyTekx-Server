@@ -1,16 +1,16 @@
 uuid: af6718ae-82b8-4c41-a28e-a555707fa868
 timestamps:
-  login: 1532462909316
-  lastteleport: 1532464729881
-  logout: 1532464771926
+  login: 1532569224883
+  lastteleport: 1532551851917
+  logout: 1532570038998
 ipAddress: 77.116.189.235
 lastlocation:
   world: DIM1
-  x: 9795.293849185362
-  y: 144.37430171396534
-  z: 41.249188205617116
-  yaw: -107.99955
-  pitch: 9.149995
+  x: 10008.535708123916
+  y: 95.0
+  z: 0.8809114515785724
+  yaw: 114.750175
+  pitch: 60.450024
 homes:
   home:
     world: world
@@ -21,9 +21,14 @@ homes:
     pitch: 20.250053
 logoutlocation:
   world: world
-  x: 786.3344718383439
-  y: 96.0
-  z: 786.6239429803603
-  yaw: -263.54962
-  pitch: 42.000065
+  x: 289.54878033340884
+  y: 68.0
+  z: -676.9423194943975
+  yaw: -81.89731
+  pitch: 36.000076
 afk: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
