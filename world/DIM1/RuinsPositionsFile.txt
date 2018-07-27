@@ -57,12 +57,14 @@
 334 79 732 337 82 735 StoneGrill.tml
 334 82 498 337 87 502 StonePillar.tml
 349 76 1284 352 79 1287 StoneGrill.tml
+381 68 299 384 71 302 EmeraldOreOutcrop.tml
 401 45 -145 405 50 -142 StonePillar.tml
 482 74 1008 486 79 1011 StonePillar.tml
 580 88 31 583 91 34 EmeraldOreOutcrop.tml
 604 52 -46 607 55 -43 StoneGrill.tml
 700 44 -63 703 49 -59 StonePillar.tml
 799 63 -145 801 67 -142 SkeletonHeadStatue.tml
+879 77 336 881 81 339 SkeletonHeadStatue.tml
 989 41 136 992 46 140 StonePillar.tml
 1198 43 117 1201 46 120 StoneGrill.tml
 1356 45 5 1359 48 8 EmeraldOreOutcrop.tml
