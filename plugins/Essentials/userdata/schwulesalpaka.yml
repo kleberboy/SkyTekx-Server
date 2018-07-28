@@ -1,16 +1,16 @@
 uuid: af6718ae-82b8-4c41-a28e-a555707fa868
 timestamps:
-  login: 1532658293324
-  lastteleport: 1532658693609
-  logout: 1532658110837
+  login: 1532736440511
+  lastteleport: 1532743781787
+  logout: 1532723346275
 ipAddress: 77.116.189.235
 lastlocation:
   world: world
-  x: -2092.7776711830106
-  y: 67.6198564269099
-  z: -546.9434802172364
-  yaw: 16.649382
-  pitch: 32.24991
+  x: -2094.5
+  y: 67.0
+  z: -545.5
+  yaw: 320.69955
+  pitch: 36.299915
 homes:
   home:
     world: world
@@ -21,11 +21,11 @@ homes:
     pitch: 59.550014
 logoutlocation:
   world: world
-  x: -2118.5
-  y: 47.0
-  z: -508.5
-  yaw: 60.74925
-  pitch: 10.949918
+  x: 1139.5
+  y: 37.0
+  z: 334.5
+  yaw: 225.30574
+  pitch: 23.85001
 afk: true
 ban:
   reason: '§4Banned:
