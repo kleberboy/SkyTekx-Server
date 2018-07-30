@@ -37,11 +37,13 @@
 -347 72 -2804 -340 80 -2797 Outcrop.tml
 -318 69 -2876 -314 74 -2873 StonePillar.tml
 -293 56 -1747 -286 64 -1740 Outcrop.tml
+-261 56 161 -258 59 164 EmeraldOreOutcrop.tml
 -243 72 -2825 -240 76 -2823 SkeletonHeadStatue.tml
 -237 72 -2517 -225 82 -2505 VolcanicVent.tml
 -208 96 706 -205 99 709 EmeraldOreOutcrop.tml
 -131 68 -1443 -128 71 -1440 StoneGrill.tml
 -127 71 -2530 -125 75 -2527 SkeletonHeadStatue.tml
+-111 56 6 -108 59 9 StoneGrill.tml
 -84 78 -82 -77 86 -75 Outcrop.tml
 -78 74 517 -75 78 519 SkeletonHeadStatue.tml
 -39 67 835 -36 70 838 StoneGrill.tml
@@ -50,6 +52,7 @@
 -3 61 -19 1 66 -16 StonePillar.tml
 -2 61 -17 3 66 -12 CaveSpiderBurrow.tml
 4 54 350 7 57 353 EmeraldOreOutcrop.tml
+46 57 60 48 61 63 SkeletonHeadStatue.tml
 64 95 -1948 66 99 -1945 SkeletonHeadStatue.tml
 107 48 -2081 114 56 -2074 Outcrop.tml
 109 53 924 114 57 931 ZombieHut.tml

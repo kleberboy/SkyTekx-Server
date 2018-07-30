@@ -1417,6 +1417,7 @@
 -633 30 756 -597 50 767 SunkenShip-v2.tml
 -629 70 -1562 -619 74 -1552 RuinedSmallFountainDiagonal.tml
 -627 74 -7957 -612 81 -7948 Archway.tml
+-625 62 -1310 -620 67 -1305 CaveSpiderBurrow.tml
 -625 83 4143 -622 86 4146 StoneGrill.tml
 -624 30 1117 -588 42 1128 SunkenShip-v3.tml
 -622 71 -8390 -619 74 -8387 EmeraldOreOutcrop.tml
@@ -1676,6 +1677,7 @@
 231 70 3530 241 74 3540 RuinedSmallFountainDiagonal.tml
 234 62 914 266 76 946 Floater.tml
 236 63 2930 241 65 2937 Melonfield.tml
+241 66 -2095 248 74 -2088 Outcrop.tml
 251 69 3254 263 102 3266 OreSpire.tml
 252 68 3102 259 71 3109 TinyFarmField.tml
 253 68 3444 256 72 3446 SkeletonHeadStatue.tml
@@ -1689,6 +1691,7 @@
 296 71 -2003 301 76 -1998 CaveSpiderBurrow.tml
 301 166 -2740 304 170 -2738 SkeletonHeadStatue.tml
 304 68 -2744 312 80 -2734 ArrowTrapTomb.tml
+315 67 -2265 320 72 -2260 CaveSpiderBurrow.tml
 328 87 3259 333 91 3266 ZombieHut.tml
 341 68 -2514 350 82 -2505 MoaiHead.tml
 352 68 -2506 364 78 -2494 VolcanicVent.tml
@@ -1881,6 +1884,7 @@
 1412 77 -3377 1419 79 -3372 Melonfield.tml
 1421 86 -2279 1424 89 -2276 EmeraldOreOutcrop.tml
 1425 75 -3840 1441 87 -3828 Barn-intact.tml
+1425 67 -3198 1457 86 -3165 CastleModified.tml
 1427 70 -4140 1432 72 -4133 PumpkinField.tml
 1428 70 -2586 1431 73 -2583 EmeraldOreOutcrop.tml
 1433 74 -2514 1437 79 -2511 StonePillar.tml
@@ -1891,6 +1895,7 @@
 1444 62 -1816 1447 65 -1813 EmeraldOreOutcrop.tml
 1447 63 -1451 1450 67 -1449 SkeletonHeadStatue.tml
 1451 62 -1270 1456 67 -1265 CaveSpiderBurrow.tml
+1452 65 -3189 1473 78 -3138 AlchemistsDungeon.tml
 1459 70 -1354 1462 73 -1351 StoneGrill.tml
 1461 63 -1744 1463 67 -1741 SkeletonHeadStatue.tml
 1465 62 -1963 1472 64 -1958 PumpkinField.tml
@@ -1940,6 +1945,7 @@
 1586 70 -4323 1593 72 -4318 Melonfield.tml
 1591 66 -3065 1594 69 -3062 StoneGrill.tml
 1597 62 -3402 1609 95 -3390 OreSpire.tml
+1598 70 -3143 1608 82 -3135 ArrowTrapTomb.tml
 1600 62 -3301 1620 75 -3281 Altar.tml
 1604 61 -3498 1616 69 -3488 StoneHouseMruined.tml
 1608 47 695 1634 60 703 shipwreck.tml
