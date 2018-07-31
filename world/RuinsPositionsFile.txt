@@ -1413,7 +1413,9 @@
 -643 69 -7878 -640 72 -7875 EmeraldOreOutcrop.tml
 -640 67 4674 -628 71 4686 AncientFountain.tml
 -639 68 -7233 -636 71 -7230 StoneGrill.tml
+-637 73 -1101 -627 81 -1089 StoneHouseMruined.tml
 -635 76 -1758 -631 81 -1755 StonePillar.tml
+-635 46 -1024 -624 58 -988 SunkenShip-v3.tml
 -633 30 756 -597 50 767 SunkenShip-v2.tml
 -629 70 -1562 -619 74 -1552 RuinedSmallFountainDiagonal.tml
 -627 74 -7957 -612 81 -7948 Archway.tml
@@ -1445,6 +1447,7 @@
 -549 67 -8363 -542 70 -8356 TinyFarmField.tml
 -545 70 4628 -538 72 4633 PumpkinField.tml
 -545 65 -6947 -540 67 -6940 PumpkinField.tml
+-545 66 -951 -542 69 -948 EmeraldOreOutcrop.tml
 -544 62 -8060 -537 70 -8053 Outcrop.tml
 -543 70 4474 -540 73 4477 EmeraldOreOutcrop.tml
 -541 75 -7871 -529 85 -7859 VolcanicVent.tml
@@ -1456,6 +1459,7 @@
 -519 75 4304 -509 79 4314 RuinedSmallFountainDiagonal.tml
 -509 62 -7045 -500 69 -7030 Archway.tml
 -504 63 -7488 -500 68 -7485 StonePillar.tml
+-493 76 -1042 -486 79 -1035 TinyFarmField.tml
 -492 70 3257 -485 73 3264 TinyFarmField.tml
 -490 71 -7419 -483 73 -7414 Melonfield.tml
 -487 78 -1277 -482 82 -1270 ZombieHut.tml
