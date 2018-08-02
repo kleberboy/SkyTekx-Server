@@ -2,5 +2,11 @@
   {
     "name": "Strom Ausgang",
     "type": 0
+  },
+  {
+    "name": "Items Mobfarm",
+    "uuid": "bcb341ca-4a16-4bda-ad95-ad56b03f3dcb",
+    "playername": "Remaved",
+    "type": 1
   }
 ]
