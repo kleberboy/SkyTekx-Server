@@ -48,11 +48,11 @@
 -165 75 -10190 -156 82 -10175 Archway.tml
 -158 62 -3970 -155 66 -3968 SkeletonHeadStatue.tml
 -131 68 -1443 -128 71 -1440 StoneGrill.tml
--127 71 -2530 -125 75 -2527 SkeletonHeadStatue.tml
 -127 72 -7832 -124 77 -7828 StonePillar.tml
+-127 71 -2530 -125 75 -2527 SkeletonHeadStatue.tml
 -111 56 6 -108 59 9 StoneGrill.tml
--106 78 -3000 -103 81 -2997 EmeraldOreOutcrop.tml
 -106 85 -9969 -101 87 -9962 PumpkinField.tml
+-106 78 -3000 -103 81 -2997 EmeraldOreOutcrop.tml
 -100 68 -7345 -97 71 -7342 EmeraldOreOutcrop.tml
 -94 78 -9521 -90 83 -9518 StonePillar.tml
 -91 47 -1350 -88 51 -1348 SkeletonHeadStatue.tml
@@ -67,11 +67,11 @@
 -21 50 -2038 -17 55 -2035 StonePillar.tml
 -15 88 -2275 -12 91 -2272 EmeraldOreOutcrop.tml
 -9 85 -9898 -4 90 -9893 CaveSpiderBurrow.tml
--5 73 -2404 -2 76 -2401 StoneGrill.tml
 -5 93 -9978 -3 97 -9975 SkeletonHeadStatue.tml
+-5 73 -2404 -2 76 -2401 StoneGrill.tml
 -3 61 -19 1 66 -16 StonePillar.tml
--2 56 144 10 64 154 StoneHouseMruined.tml
 -2 61 -17 3 66 -12 CaveSpiderBurrow.tml
+-2 56 144 10 64 154 StoneHouseMruined.tml
 4 54 350 7 57 353 EmeraldOreOutcrop.tml
 13 58 -322 16 61 -319 StoneGrill.tml
 14 61 -8724 17 64 -8721 EmeraldOreOutcrop.tml
@@ -81,8 +81,8 @@
 32 56 -5774 35 59 -5771 StoneGrill.tml
 44 77 -7876 47 81 -7874 SkeletonHeadStatue.tml
 46 57 60 48 61 63 SkeletonHeadStatue.tml
-49 86 -3845 54 88 -3838 Melonfield.tml
 49 84 -10105 52 87 -10102 StoneGrill.tml
+49 86 -3845 54 88 -3838 Melonfield.tml
 54 73 -6692 56 77 -6689 SkeletonHeadStatue.tml
 64 95 -1948 66 99 -1945 SkeletonHeadStatue.tml
 66 58 -3017 73 61 -3010 TinyFarmField.tml
@@ -98,8 +98,8 @@
 127 48 -5700 130 52 -5698 SkeletonHeadStatue.tml
 133 71 -8811 153 84 -8791 Altar.tml
 139 73 -5140 147 85 -5130 ArrowTrapTomb.tml
-141 61 -3025 144 66 -3021 StonePillar.tml
 141 72 -7956 146 77 -7951 CaveSpiderBurrow.tml
+141 61 -3025 144 66 -3021 StonePillar.tml
 143 71 -4333 146 74 -4330 StoneGrill.tml
 146 115 -3284 153 118 -3277 TinyFarmField.tml
 157 71 -5212 162 76 -5207 CaveSpiderBurrow.tml
@@ -107,8 +107,8 @@
 190 80 -2560 197 83 -2553 TinyFarmField.tml
 193 93 -6871 200 96 -6864 TinyFarmField.tml
 324 50 -530 327 55 -526 StonePillar.tml
-334 82 498 337 87 502 StonePillar.tml
 334 79 732 337 82 735 StoneGrill.tml
+334 82 498 337 87 502 StonePillar.tml
 349 76 1284 352 79 1287 StoneGrill.tml
 381 68 299 384 71 302 EmeraldOreOutcrop.tml
 401 45 -145 405 50 -142 StonePillar.tml
@@ -169,8 +169,8 @@
 3538 54 29 3541 57 32 EmeraldOreOutcrop.tml
 3616 65 91 3619 69 93 SkeletonHeadStatue.tml
 3707 90 213 3712 95 218 CaveSpiderBurrow.tml
-3708 84 -115 3712 89 -112 StonePillar.tml
 3708 110 136 3711 113 139 StoneGrill.tml
+3708 84 -115 3712 89 -112 StonePillar.tml
 3735 70 -216 3738 73 -213 StoneGrill.tml
 3780 97 -624 3782 101 -621 SkeletonHeadStatue.tml
 3901 33 -125 3904 37 -123 SkeletonHeadStatue.tml
@@ -288,8 +288,8 @@
 7855 75 -243 7858 78 -240 StoneGrill.tml
 7870 88 -321 7872 92 -318 SkeletonHeadStatue.tml
 7889 47 287 7896 50 294 TinyFarmField.tml
-8061 43 -242 8070 57 -233 MoaiHead.tml
 8061 66 306 8064 69 309 EmeraldOreOutcrop.tml
+8061 43 -242 8070 57 -233 MoaiHead.tml
 8068 62 96 8071 65 99 StoneGrill.tml
 8077 40 -2 8080 43 1 EmeraldOreOutcrop.tml
 8170 63 -152 8177 71 -145 Outcrop.tml
@@ -309,8 +309,8 @@
 9095 64 -209 9098 67 -206 StoneGrill.tml
 9159 58 281 9171 62 293 AncientFountain.tml
 9177 65 -276 9189 69 -264 AncientFountain.tml
-9213 81 108 9218 86 113 CaveSpiderBurrow.tml
 9213 58 198 9218 60 205 Melonfield.tml
+9213 81 108 9218 86 113 CaveSpiderBurrow.tml
 9340 87 174 9343 91 176 SkeletonHeadStatue.tml
 9450 78 145 9453 81 148 StoneGrill.tml
 9487 83 45 9494 86 52 TinyFarmField.tml
@@ -319,8 +319,8 @@
 9617 90 433 9621 95 436 StonePillar.tml
 9629 48 59 9634 50 66 Melonfield.tml
 9711 80 -98 9716 85 -93 CaveSpiderBurrow.tml
-9909 85 -15 9914 89 -8 ZombieHut.tml
 9909 84 76 9913 89 79 StonePillar.tml
+9909 85 -15 9914 89 -8 ZombieHut.tml
 9969 85 -111 9979 89 -101 RuinedSmallFountainDiagonal.tml
 9971 113 -199 9987 125 -187 Barn-intact.tml
 9979 89 57 9982 93 59 SkeletonHeadStatue.tml
