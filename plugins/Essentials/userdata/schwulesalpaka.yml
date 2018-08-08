@@ -1,9 +1,9 @@
 uuid: af6718ae-82b8-4c41-a28e-a555707fa868
 timestamps:
-  login: 1533313038510
+  login: 1533674058285
   lastteleport: 1533296748711
   logout: 1533324976271
-ipAddress: 77.116.165.170
+ipAddress: 178.113.143.182
 lastlocation:
   world: world
   x: 21.257366685078388
@@ -26,7 +26,7 @@ logoutlocation:
   z: 203.30000001192093
   yaw: 93.75039
   pitch: 59.850014
-afk: false
+afk: true
 ban:
   reason: '§4Banned:
 
