@@ -47,6 +47,7 @@
 -187 85 -3847 -184 88 -3844 EmeraldOreOutcrop.tml
 -165 75 -10190 -156 82 -10175 Archway.tml
 -158 62 -3970 -155 66 -3968 SkeletonHeadStatue.tml
+-150 73 284 -143 81 291 Outcrop.tml
 -131 68 -1443 -128 71 -1440 StoneGrill.tml
 -127 72 -7832 -124 77 -7828 StonePillar.tml
 -127 71 -2530 -125 75 -2527 SkeletonHeadStatue.tml

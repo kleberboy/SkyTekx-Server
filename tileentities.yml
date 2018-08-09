@@ -250,7 +250,7 @@ world-settings:
     net-minecraft-tileentity-TileEntityFurnace:
       tick-no-players: false
       tick-interval: 1
-    thaumcraft-common-tiles-TileNode:
+    powercrystals-minefactoryreloaded-tile-machine-TileEntityPlanter:
       tick-no-players: false
       tick-interval: 1
     com-brandon3055-draconicevolution-common-tileentities-TileGrinder:
@@ -265,13 +265,13 @@ world-settings:
     crazypants-enderio-machine-farm-TileFarmStation:
       tick-no-players: false
       tick-interval: 1
-    powercrystals-minefactoryreloaded-tile-machine-TileEntityPlanter:
-      tick-no-players: false
-      tick-interval: 1
     thaumcraft-common-tiles-TileInfusionMatrix:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileJarFillable:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
     tconstruct-smeltery-logic-SmelteryLogic:
@@ -418,31 +418,76 @@ world-settings:
     com-aesireanempire-eplus-inventory-TileEnchantTable:
       tick-no-players: false
       tick-interval: 1
+    vazkii-botania-common-block-tile-mana-TilePool:
+      tick-no-players: false
+      tick-interval: 1
+    vazkii-botania-common-block-tile-mana-TileSpreader:
+      tick-no-players: false
+      tick-interval: 1
+    vazkii-botania-common-block-tile-TileRuneAltar:
+      tick-no-players: false
+      tick-interval: 1
+    vazkii-botania-common-block-tile-TileTerraPlate:
+      tick-no-players: false
+      tick-interval: 1
+    cpw-mods-ironchest-TileEntityGoldChest:
+      tick-no-players: false
+      tick-interval: 1
+    vazkii-botania-common-block-tile-TileAltar:
+      tick-no-players: false
+      tick-interval: 1
     thaumcraft-common-tiles-TileTubeFilter:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileTubeValve:
       tick-no-players: false
       tick-interval: 1
+    net-aetherteam-aether-tileentities-TileEntityIncubator:
+      tick-no-players: false
+      tick-interval: 1
     cofh-thermalexpansion-block-device-TileActivator:
       tick-no-players: false
       tick-interval: 1
-    shukaro-artifice-tile-TileEntityNuclearBattery:
+    thaumcraft-common-tiles-TileThaumatorium:
       tick-no-players: false
       tick-interval: 1
-    net-blay09-mods-excompressum-tile-TileEntityAutoSieveRF:
+    thaumcraft-common-tiles-TileThaumatoriumTop:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileAlchemyFurnace:
       tick-no-players: false
       tick-interval: 1
     powercrystals-minefactoryreloaded-tile-machine-TileEntityBlockPlacer:
       tick-no-players: false
       tick-interval: 1
-    chylex-hee-tileentity-TileEntityEssenceAltar:
+    shukaro-artifice-tile-TileEntityNuclearBattery:
+      tick-no-players: false
+      tick-interval: 1
+    com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorNether:
+      tick-no-players: false
+      tick-interval: 1
+    com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorFurnaceOverClocked:
+      tick-no-players: false
+      tick-interval: 1
+    com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorFurnace:
       tick-no-players: false
       tick-interval: 1
     com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
       tick-no-players: false
       tick-interval: 1
     com-emoniph-witchery-blocks-BlockCircleTileEntityCircle:
+      tick-no-players: false
+      tick-interval: 1
+    com-brandon3055-draconicevolution-common-tileentities-multiblocktiles-TileEnderResurrection:
+      tick-no-players: false
+      tick-interval: 1
+    buildcraft-factory-TilePump:
+      tick-no-players: false
+      tick-interval: 1
+    net-blay09-mods-excompressum-tile-TileEntityAutoSieveRF:
+      tick-no-players: false
+      tick-interval: 1
+    chylex-hee-tileentity-TileEntityEssenceAltar:
       tick-no-players: false
       tick-interval: 1
     jds-bibliocraft-tileentities-TileEntityPrintPress:
@@ -463,45 +508,6 @@ world-settings:
     exnihilo-blocks-tileentities-TileEntityBarrel:
       tick-no-players: false
       tick-interval: 1
-    vazkii-botania-common-block-tile-mana-TilePool:
-      tick-no-players: false
-      tick-interval: 1
-    vazkii-botania-common-block-tile-mana-TileSpreader:
-      tick-no-players: false
-      tick-interval: 1
-    vazkii-botania-common-block-tile-TileRuneAltar:
-      tick-no-players: false
-      tick-interval: 1
-    vazkii-botania-common-block-tile-TileTerraPlate:
-      tick-no-players: false
-      tick-interval: 1
-    cpw-mods-ironchest-TileEntityGoldChest:
-      tick-no-players: false
-      tick-interval: 1
-    vazkii-botania-common-block-tile-TileAltar:
-      tick-no-players: false
-      tick-interval: 1
-    net-aetherteam-aether-tileentities-TileEntityIncubator:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileThaumatorium:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileThaumatoriumTop:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileAlchemyFurnace:
-      tick-no-players: false
-      tick-interval: 1
-    com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorNether:
-      tick-no-players: false
-      tick-interval: 1
-    com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorFurnaceOverClocked:
-      tick-no-players: false
-      tick-interval: 1
-    com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorFurnace:
-      tick-no-players: false
-      tick-interval: 1
     tconstruct-tools-logic-FurnaceLogic:
       tick-no-players: false
       tick-interval: 1
@@ -518,9 +524,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     cofh-thermalexpansion-block-machine-TileInsolator:
-      tick-no-players: false
-      tick-interval: 1
-    com-brandon3055-draconicevolution-common-tileentities-multiblocktiles-TileEnderResurrection:
       tick-no-players: false
       tick-interval: 1
     openblocks-common-tileentity-TileEntityXPDrain:
