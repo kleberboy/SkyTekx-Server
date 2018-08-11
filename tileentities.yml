@@ -343,9 +343,6 @@ world-settings:
     TileMultipartcmp5:
       tick-no-players: false
       tick-interval: 1
-    exnihilo-blocks-tileentities-TileEntityCrucible:
-      tick-no-players: false
-      tick-interval: 1
     powercrystals-powerconverters-power-systems-ic2-TileEntityIndustrialCraftProducer:
       tick-no-players: false
       tick-interval: 1
@@ -394,12 +391,6 @@ world-settings:
     ic2-core-block-machine-tileentity-TileEntityCanner:
       tick-no-players: false
       tick-interval: 1
-    crazypants-enderio-machine-reservoir-TileReservoir:
-      tick-no-players: false
-      tick-interval: 1
-    com-mark719-magicalcrops-furnace-TileEntityUltimateFurnace:
-      tick-no-players: false
-      tick-interval: 1
     com-emoniph-witchery-blocks-BlockAltarTileEntityAltar:
       tick-no-players: false
       tick-interval: 1
@@ -409,7 +400,13 @@ world-settings:
     com-emoniph-witchery-blocks-BlockLeechChestTileEntityLeechChest:
       tick-no-players: false
       tick-interval: 1
+    com-mark719-magicalcrops-furnace-TileEntityUltimateFurnace:
+      tick-no-players: false
+      tick-interval: 1
     cofh-thermalexpansion-block-machine-TilePrecipitator:
+      tick-no-players: false
+      tick-interval: 1
+    crazypants-enderio-machine-reservoir-TileReservoir:
       tick-no-players: false
       tick-interval: 1
     com-emoniph-witchery-blocks-BlockCoffinTileEntityCoffin:
@@ -442,22 +439,7 @@ world-settings:
     thaumcraft-common-tiles-TileTubeValve:
       tick-no-players: false
       tick-interval: 1
-    net-aetherteam-aether-tileentities-TileEntityIncubator:
-      tick-no-players: false
-      tick-interval: 1
-    cofh-thermalexpansion-block-device-TileActivator:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileThaumatorium:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileThaumatoriumTop:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileAlchemyFurnace:
-      tick-no-players: false
-      tick-interval: 1
-    powercrystals-minefactoryreloaded-tile-machine-TileEntityBlockPlacer:
+    exnihilo-blocks-tileentities-TileEntityCrucible:
       tick-no-players: false
       tick-interval: 1
     shukaro-artifice-tile-TileEntityNuclearBattery:
@@ -470,6 +452,27 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorFurnace:
+      tick-no-players: false
+      tick-interval: 1
+    net-aetherteam-aether-tileentities-TileEntityIncubator:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileAlchemyFurnace:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileThaumatorium:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileThaumatoriumTop:
+      tick-no-players: false
+      tick-interval: 1
+    powercrystals-minefactoryreloaded-tile-machine-TileEntityBlockPlacer:
+      tick-no-players: false
+      tick-interval: 1
+    cofh-thermalexpansion-block-device-TileActivator:
+      tick-no-players: false
+      tick-interval: 1
+    buildcraft-factory-TileFloodGate:
       tick-no-players: false
       tick-interval: 1
     com-chocolate-chocolateQuest-block-BlockMobSpawnerTileEntity:
