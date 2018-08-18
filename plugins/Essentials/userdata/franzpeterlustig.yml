@@ -1,0 +1,29 @@
+uuid: 7fac3a97-b9ef-4130-95c4-56f17c787212
+timestamps:
+  login: 1534550797082
+  lastteleport: 1534556469890
+  logout: 1534556791974
+ipAddress: 178.115.130.220
+lastlocation:
+  world: world
+  x: 220.5362441734684
+  y: 94.14470125485309
+  z: 113.39075548604342
+  yaw: -204.44998
+  pitch: 21.6
+homes:
+  home:
+    world: DIM-28
+    x: -181.8035770641785
+    y: 63.0
+    z: 215.53066885505362
+    yaw: -6.006256
+    pitch: -0.15002322
+afk: false
+logoutlocation:
+  world: world
+  x: 0.21651811421182407
+  y: 66.0
+  z: 260.3332869151921
+  yaw: -268.7152
+  pitch: 3.0722563
