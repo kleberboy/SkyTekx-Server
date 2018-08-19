@@ -166,6 +166,7 @@ world-environment-settings:
     enabled: true
   orbit:
     keep-world-loaded: true
+    enabled: true
   dreamworld:
     keep-world-loaded: false
     enabled: true
