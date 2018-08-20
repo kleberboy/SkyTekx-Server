@@ -1,63 +1,54 @@
-[00:00:00] [Server thread/INFO]: [Server thread] Server side modded connection established
-[00:00:00] [Server thread/INFO]: Flottschi[/213.157.155.79:60891] logged in with entity id 213138 at ([world] 49.34765031522408, 69.0, 424.1854609801325)
-[00:00:00] [Server thread/INFO]: No custom rewards detected for the current user!
-[00:00:00] [Server thread/INFO]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
-[00:00:00] [Server thread/INFO]: npe choco
-[00:00:00] [Server thread/INFO]: Player EntityPlayerMP['Flottschi'/213138, l='world', x=49.35, y=69.00, z=424.19](Flottschi at 49.34765031522408,69.0,424.1854609801325) connected. Sending ping
-[00:00:02] [User Authenticator #8/INFO]: UUID of player SchwulesAlpaka is af6718ae-82b8-4c41-a28e-a555707fa868
-[00:00:02] [Netty IO #0/INFO]: Client protocol version 2
-[00:00:02] [Netty IO #0/INFO]: Client attempting to join with 143 mods : MineFactoryReloaded|CompatExtraBiomes@1.7.10R2.8.1,BuildCraft|Silicon@7.1.23,ForgeMicroblock@1.2.0.347,iChunUtil@4.2.3,aether@1.7.10-1.6,HardcoreEnderExpansion@1.8.6,MineFactoryReloaded|CompatTwilightForest@1.7.10R2.8.1,wildcaves3@1.7.10,endercore@1.7.10-0.2.0.39_beta,bspkrsCore@6.16,MoreBows2@1.2,exastris@MC1.7.10-1.16-36,BuildCraft|Robotics@7.1.23,F2L@1.7.10b,gilded-games-util@1.7.10-1.2,xreliquary@1.2,chancecubes@1.7.10-2.3.2.126,McMultipart@1.2.0.347,excompressum@1.1.143,secretroomsmod@4.7.1,ImmibisMicroblocks@59.1.2,props@2.3.3,ExtraUtilities@1.2.12,Micdoodlecore@,Railcraft@9.12.2.0,MineFactoryReloaded|CompatRailcraft@1.7.10R2.8.1,weaponmod@v1.14.3,ThermalFoundation@1.7.10R1.2.6,MineFactoryReloaded|CompatVanilla@1.7.10R2.8.1,ForgeMultipart@1.2.0.347,hexxitgear@1.5.2R1.0,magicalcropsarmour@4.0.0_PUBLIC_BETA_4,BrandonsCore@1.0.0.12,CoFHCore@1.7.10R3.1.4,FastCraft@1.23,Forge@10.13.4.1558,ImmibisCore@59.1.4,SpawnCommands@2.2.2,MineFactoryReloaded|CompatChococraft@1.7.10R2.8.1,AdvancedSolarPanel@1.7.10-3.5.1,BuildCraft|Energy@7.1.23,IC2@2.2.828-experimental,JABBA@1.2.2,ExtraTiC@1.4.6,MineFactoryReloaded|CompatIC2@1.7.10R2.8.1,oreexcavation@1.1.31,IguanaTweaksTConstruct@1.7.10-2.1.6.163,FML@7.10.99.99,Natura@2.2.0,SSTOW@1.7.10-0.1-RC9-7,NEIAddons|Forestry@1.12.14.40,TiCTooltips@1.2.5,magicalcrops@4.0.0_PUBLIC_BETA_4b,BiblioWoodsNatura@1.5,cfm@3.4.8,<CoFH ASM>@000,NEIAddons|CraftingTables@1.12.14.40,NEIAddons|ExNihilo@1.12.14.40,ArmorStatusHUD@1.28,ThermalDynamics@1.7.10R1.2.1,libsandstone@1.0.0,Artifice@1.7.10R1.1.4,Botania@r1.8-249,BackTools@4.0.0,NotEnoughItems@1.0.5.120,Thaumcraft@4.2.3.5,ChestTransporter@2.0.6,exnihilo@1.38-53,Waila@1.5.10,TConstruct@1.7.10-1.8.8.build988,extracells@2.3.14,PlayerAPI@1.4,StatusEffectHUD@1.27,ProjectZulu|Core@1.7.10-1.4c2,appliedenergistics2-core@rv2-stable-10,NEIAddons@1.12.14.40,mod_ThreadedLighting@1.7.10-1.0,BiblioCraft@1.11.7,BuildCraft|Core@7.1.23,OpenModsCore@0.10,betterstorage@0.13.1.127,ImmersiveEngineering@0.7.7,bdlib@1.9.4.109,NEIAddons|Developer@1.12.14.40,treeGrowingSimulator@0.0.4,mcp@9.05,Mantle@1.7.10-0.3.2.jenkins191,journeymap@5.1.4p2,appliedenergistics2@rv2-stable-10,MineFactoryReloaded|CompatTConstruct@1.7.10R2.8.1,MineFactoryReloaded|CompatAppliedEnergistics@1.7.10R2.8.1,DraconicEvolution@1.0.2h,inventorytweaks@1.59-dev-152-cf6e263,MineFactoryReloaded|CompatBuildCraft@1.7.10R2.8.1,harvestcraft@1.7.10j,ThermalExpansion@1.7.10R4.1.5,TwilightForest@2.3.7,BuildCraft|Factory@7.1.23,MineFactoryReloaded|CompatThaumcraft@1.7.10R2.8.1,NEIAddons|AppEng@1.12.14.40,OpenBlocks@1.6,meteors@2.14.3,PowerConverters@1.7.10_3.2.1,EnderStorage@1.4.7.37,EnderTech@1.7.10-0.3.2.405,magicalcropsdeco@4.0.0_PUBLIC_BETA_4a,BiblioWoodsEBXL@1.4,MineFactoryReloaded|CompatForgeMicroblock@1.7.10R2.8.1,chococraft@4.1.5,MineFactoryReloaded@1.7.10R2.8.1,CarpentersBlocks@3.3.8.1,eplus@3.0.2-d,GalacticraftMars@3.0.12,EnderIO@1.7.10-2.3.0.429_beta,BuildCraft|Compat@7.1.7,Translocator@1.1.2.16,BattleTowers@1.5.2,ComputerCraft@1.75,HelpFixer@1.0.7,InfernalMobs@1.6.6,immersiveintegration@0.6.8,IronChest@6.0.62.742,SolarFlux@1.7.10-0.8b,NEIAddons|Botany@1.12.14.40,MineFactoryReloaded|CompatThermalExpansion@1.7.10R2.8.1,CodeChickenCore@1.0.7.47,BigReactors@0.4.3A,Treecapitator@1.7.10,DamageIndicatorsMod@3.2.3,chocolateQuest@1.0,NetherOres@1.7.10R2.3.1,ExtrabiomesXL@3.16.4,BuildCraft|Transport@7.1.23,chisel@2.9.5.11,Baubles@1.0.1.10,Backpack@2.0.1,witchery@0.24.1,AS_Ruins@15.4,OpenMods@0.10,PTRModelLib@1.0.0,GalacticraftCore@3.0.12,BuildCraft|Builders@7.1.23,ObsidiPlates@3.0.0.18
-[00:00:02] [Netty IO #0/INFO]: Attempting connection with missing mods [kimagine] at CLIENT
-[00:00:02] [Netty IO #0/INFO]: CLIENT
-[00:00:02] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:00:02] [Server thread/INFO]: Rcon: Stopping the server..
-[00:00:02] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
-[00:00:02] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
-[00:00:02] [Server thread/INFO]: Stopping server
-[00:00:02] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
-[00:00:02] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
-[00:00:02] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
-[00:00:02] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
-[00:00:02] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
-[00:00:02] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
-[00:00:02] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
-[00:00:02] [Server thread/INFO]: Saving players
-[00:00:03] [Server thread/INFO]: Flottschi lost connection: Server closed
-[00:00:03] [Server thread/INFO]: Flottschi left the game.
-[00:00:03] [Server thread/INFO]: Saving worlds
-[00:00:03] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:00:03] [Server thread/INFO]: Saving chunks for level 'DIM-100'/Underdark
-[00:00:03] [Server thread/INFO]: Saving chunks for level 'DIM-37'/Spirit World
-[00:00:03] [Server thread/INFO]: Saving chunks for level 'DIM-38'/Torment
-[00:00:03] [Server thread/INFO]: Saving chunks for level 'DIM-39'/Mirror
-[00:00:03] [Server thread/INFO]: Saving chunks for level 'DIM-42'/The Outer Lands
-[00:00:03] [Server thread/INFO]: Saving chunks for level 'DIM-112'/The Last Millenium
-[00:00:03] [Server thread/INFO]: Saving chunks for level 'DIM7'/Twilight Forest
-[00:00:04] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
-[00:00:04] [Server thread/INFO]: Saving chunks for level 'DIM4'/Dungeons
-[00:00:04] [Server thread/INFO]: Saving chunks for level 'DIM3'/Aether
-[00:00:04] [Server thread/INFO]: Saving chunks for level 'iceland'/Overworld
-[00:00:04] [Server thread/INFO]: Saving chunks for level 'DIM-30'/Asteroids
-[00:00:04] [Server thread/INFO]: Saving chunks for level 'DIM-29'/Mars
-[00:00:06] [Server thread/INFO]: Saving chunks for level 'DIM-28'/Moon
-[00:00:06] [Server thread/INFO]: Unloading dimension 0
-[00:00:06] [Server thread/INFO]: Unloading dimension -1
-[00:00:06] [Server thread/INFO]: Unloading dimension -30
-[00:00:06] [Server thread/INFO]: Unloading dimension -100
-[00:00:06] [Server thread/INFO]: Unloading dimension -37
-[00:00:06] [Server thread/INFO]: Unloading dimension -38
-[00:00:06] [Server thread/INFO]: Unloading dimension -39
-[00:00:06] [Server thread/INFO]: Unloading dimension -42
-[00:00:06] [Server thread/INFO]: Unloading dimension -112
-[00:00:06] [Server thread/INFO]: Unloading dimension 7
-[00:00:06] [Server thread/INFO]: Unloading dimension 5
-[00:00:06] [Server thread/INFO]: Unloading dimension 4
-[00:00:06] [Server thread/INFO]: Unloading dimension 3
-[00:00:06] [Server thread/INFO]: Unloading dimension -28
-[00:00:06] [Server thread/INFO]: Unloading dimension -29
-[00:00:06] [Server thread/INFO]: Applying holder lookups
-[00:00:06] [Server thread/INFO]: Holder lookups applied
-[00:00:06] [pool-24-thread-1/INFO]: ServerChannelRegister: Dimensional Transceiver data saved to /opt/minecraft-server/server/skytekx-server/./world/enderio/dimensionalTransceiver.json
-[00:00:06] [Server thread/INFO]: Unregistered Dimension: -30
-[00:00:06] [Server thread/INFO]: Unregistered Dimension: -29
-[00:00:06] [Server thread/INFO]: Unregistered Dimension: -28
+[00:00:10] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:00:11] [Server thread/INFO]: Rcon: Stopping the server..
+[00:00:11] [Server thread/INFO]: [GG DEV]: Flushing data for GG Util
+[00:00:11] [Server thread/INFO]: [GG DEV]: Finished flushing data for GG Util
+[00:00:11] [Server thread/INFO]: Stopping server
+[00:00:11] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
+[00:00:11] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[00:00:11] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b691
+[00:00:11] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[00:00:11] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.13.1
+[00:00:11] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[00:00:11] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[00:00:11] [Server thread/INFO]: Saving players
+[00:00:11] [Server thread/INFO]: Flottschi lost connection: Server closed
+[00:00:11] [Server thread/INFO]: Flottschi left the game.
+[00:00:11] [Server thread/INFO]: SchwulesAlpaka lost connection: Server closed
+[00:00:11] [Server thread/INFO]: SchwulesAlpaka left the game.
+[00:00:11] [Server thread/INFO]: Saving worlds
+[00:00:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:00:12] [Server thread/INFO]: Saving chunks for level 'DIM-100'/Underdark
+[00:00:12] [Server thread/INFO]: Saving chunks for level 'DIM-37'/Spirit World
+[00:00:12] [Server thread/INFO]: Saving chunks for level 'DIM-38'/Torment
+[00:00:12] [Server thread/INFO]: Saving chunks for level 'DIM-39'/Mirror
+[00:00:12] [Server thread/INFO]: Saving chunks for level 'DIM-42'/The Outer Lands
+[00:00:12] [Server thread/INFO]: Saving chunks for level 'DIM-112'/The Last Millenium
+[00:00:12] [Server thread/INFO]: Saving chunks for level 'DIM7'/Twilight Forest
+[00:00:13] [Server thread/INFO]: Saving chunks for level 'DIM-1'/Nether
+[00:00:13] [Server thread/INFO]: Saving chunks for level 'DIM4'/Dungeons
+[00:00:13] [Server thread/INFO]: Saving chunks for level 'DIM3'/Aether
+[00:00:13] [Server thread/INFO]: Saving chunks for level 'iceland'/Overworld
+[00:00:13] [Server thread/INFO]: Saving chunks for level 'DIM-30'/Asteroids
+[00:00:13] [Server thread/INFO]: Saving chunks for level 'DIM-29'/Mars
+[00:00:13] [Server thread/INFO]: Saving chunks for level 'DIM-28'/Moon
+[00:00:13] [Server thread/INFO]: Unloading dimension 0
+[00:00:13] [Server thread/INFO]: Unloading dimension -1
+[00:00:13] [Server thread/INFO]: Unloading dimension -30
+[00:00:13] [Server thread/INFO]: Unloading dimension -100
+[00:00:13] [Server thread/INFO]: Unloading dimension -37
+[00:00:13] [Server thread/INFO]: Unloading dimension -38
+[00:00:13] [Server thread/INFO]: Unloading dimension -39
+[00:00:13] [Server thread/INFO]: Unloading dimension -42
+[00:00:13] [Server thread/INFO]: Unloading dimension -112
+[00:00:13] [Server thread/INFO]: Unloading dimension 7
+[00:00:13] [Server thread/INFO]: Unloading dimension 5
+[00:00:13] [Server thread/INFO]: Unloading dimension 4
+[00:00:13] [Server thread/INFO]: Unloading dimension 3
+[00:00:13] [Server thread/INFO]: Unloading dimension -28
+[00:00:13] [Server thread/INFO]: Unloading dimension -29
+[00:00:13] [Server thread/INFO]: Applying holder lookups
+[00:00:13] [Server thread/INFO]: Holder lookups applied
+[00:00:13] [pool-23-thread-1/INFO]: ServerChannelRegister: Dimensional Transceiver data saved to /opt/minecraft-server/server/skytekx-server/./world/enderio/dimensionalTransceiver.json
+[00:00:13] [Server thread/INFO]: Unregistered Dimension: -30
+[00:00:13] [Server thread/INFO]: Unregistered Dimension: -29
+[00:00:13] [Server thread/INFO]: Unregistered Dimension: -28
