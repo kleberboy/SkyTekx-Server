@@ -1,16 +1,16 @@
 uuid: af6718ae-82b8-4c41-a28e-a555707fa868
 timestamps:
-  login: 1534906534227
-  lastteleport: 1534909852902
-  logout: 1534894166577
+  login: 1534990893209
+  lastteleport: 1534990795681
+  logout: 1534990865148
 ipAddress: 178.113.143.182
 lastlocation:
   world: world
-  x: 19.69777892657359
-  y: 6.200000047683718
-  z: 295.23613663378154
-  yaw: 23.998722
-  pitch: -5.5500145
+  x: 178.77720029446746
+  y: 38.0
+  z: 463.32287438928364
+  yaw: -264.44592
+  pitch: -10.650013
 homes:
   home:
     world: world
@@ -20,15 +20,17 @@ homes:
     yaw: -269.39456
     pitch: 11.700043
 logoutlocation:
-  world: world
-  x: 231.48832521276015
-  y: 70.0
-  z: 125.16123994935464
-  yaw: 93.450035
-  pitch: 0.90000355
+  world: DIM1
+  x: 50.03154973302174
+  y: 99.30401496502049
+  z: -13.610143331511463
+  yaw: 27.29963
+  pitch: 88.2
 afk: false
 ban:
   reason: '§4Banned:
 
     §rThe Ban Hammer has spoken!'
   timeout: 0
+nickname: SchwulesAlpaka
+money: '10.5'
