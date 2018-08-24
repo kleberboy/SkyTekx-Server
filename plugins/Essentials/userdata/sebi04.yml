@@ -1,23 +1,23 @@
 uuid: 1291b47b-18ec-48d8-8e94-e156f73cffc4
 timestamps:
-  login: 1534972831398
-  lastteleport: 1534971792061
-  logout: 1534973560652
-ipAddress: 193.83.245.145
+  login: 1535066661919
+  lastteleport: 1535065337813
+  logout: 1535066650652
+ipAddress: 193.81.179.85
 lastlocation:
-  world: DIM-100
-  x: -4.079024917927816
-  y: 90.61529064289836
-  z: 477.2337519537038
-  yaw: 45.447197
-  pitch: 19.050013
+  world: DIM-1
+  x: -188.0668563044878
+  y: 32.613451319702634
+  z: 2.3463927671074774
+  yaw: 131.10078
+  pitch: 12.150085
 logoutlocation:
   world: world
-  x: 27.50408396055899
+  x: 31.47844850855298
   y: 69.0
-  z: 515.1148045670878
-  yaw: -175.19868
-  pitch: 17.400043
+  z: 517.5321978326106
+  yaw: -208.50014
+  pitch: 11.099968
 homes:
   home:
     world: world

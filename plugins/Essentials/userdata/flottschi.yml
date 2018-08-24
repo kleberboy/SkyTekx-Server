@@ -1,16 +1,16 @@
 uuid: f17e8c2c-5381-491b-9b01-f1fa08b711e9
 timestamps:
-  login: 1534986657062
-  lastteleport: 1534990706619
-  logout: 1534990865148
+  login: 1535070265656
+  lastteleport: 1535081818284
+  logout: 1535065343008
 ipAddress: 213.157.155.79
 lastlocation:
   world: world
-  x: 16.51783620060269
-  y: 63.0
-  z: 454.05080091560586
-  yaw: 154.64142
-  pitch: 21.450146
+  x: -16.234995503281333
+  y: 5.0
+  z: 639.43212372289
+  yaw: 24.70353
+  pitch: 35.85672
 homes:
   home:
     world: world
@@ -20,10 +20,11 @@ homes:
     yaw: 353.54468
     pitch: 21.45014
 logoutlocation:
-  world: DIM1
-  x: 55.443144253921915
-  y: 69.49534483301063
-  z: -10.603051175441507
-  yaw: 92.147705
-  pitch: 59.09185
-afk: false
+  world: world
+  x: 31.33980467299824
+  y: 63.0
+  z: 454.50348691916713
+  yaw: 315.6271
+  pitch: 7.5873976
+afk: true
+nickname: Warnung

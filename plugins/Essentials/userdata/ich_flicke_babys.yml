@@ -1,21 +1,21 @@
 uuid: 6847ed89-003d-4332-8ec8-ac3ec283b38a
 timestamps:
-  login: 1534977297937
-  lastteleport: 1534974609558
-  logout: 1534977415833
-ipAddress: 88.117.91.210
+  login: 1535041039939
+  lastteleport: 1535042337324
+  logout: 1535044231227
+ipAddress: 194.166.203.113
 lastlocation:
-  world: world
-  x: 248.0
-  y: 77.0
-  z: 148.0
-  yaw: 4.2000003
-  pitch: 6.15
+  world: DIM1
+  x: -73.97523249084593
+  y: 59.0
+  z: 41.800743882670055
+  yaw: 248.995
+  pitch: 44.550217
 afk: false
 logoutlocation:
-  world: world
-  x: 152.28366735676187
-  y: 72.78579545481678
-  z: 263.19297379594695
-  yaw: 345.47485
-  pitch: 26.69994
+  world: iceland
+  x: 103.12280451736943
+  y: 67.0
+  z: 504.0463383381295
+  yaw: 12.598267
+  pitch: 22.350143
