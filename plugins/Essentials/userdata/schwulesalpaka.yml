@@ -1,16 +1,16 @@
 uuid: af6718ae-82b8-4c41-a28e-a555707fa868
 timestamps:
-  login: 1535069592177
-  lastteleport: 1535074056819
-  logout: 1535049373545
+  login: 1535142259358
+  lastteleport: 1535138448878
+  logout: 1535143397393
 ipAddress: 77.117.155.140
 lastlocation:
-  world: DIM-100
-  x: 52.842746575328036
-  y: 106.66199573721875
-  z: 576.4098299593179
-  yaw: 127.659424
-  pitch: -40.56339
+  world: world
+  x: 21.268769650317218
+  y: 68.1077275025418
+  z: 298.30193957415366
+  yaw: -57.600204
+  pitch: 2.2499917
 homes:
   home:
     world: world
@@ -21,16 +21,16 @@ homes:
     pitch: 11.700043
 logoutlocation:
   world: world
-  x: -1279.7941056019176
-  y: 92.0
-  z: 479.34220052687004
-  yaw: 327.75034
-  pitch: 26.549763
+  x: 19.933815734484973
+  y: 68.0
+  z: 299.16711542041423
+  yaw: -79.34871
+  pitch: 5.5499883
 afk: false
 ban:
   reason: '§4Banned:
 
     §rThe Ban Hammer has spoken!'
   timeout: 0
-nickname: SchwulesAlpaka
+nickname: Sryforbeinggay
 money: '10.5'
