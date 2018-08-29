@@ -1,16 +1,16 @@
 uuid: f17e8c2c-5381-491b-9b01-f1fa08b711e9
 timestamps:
-  login: 1535386392387
-  lastteleport: 1535347673900
-  logout: 1535387773457
+  login: 1535481608891
+  lastteleport: 1535434139764
+  logout: 1535469841166
 ipAddress: 213.157.155.79
 lastlocation:
   world: world
-  x: -12.28599010411196
-  y: 69.94076004713041
-  z: 449.2375895639415
-  yaw: -71.72785
-  pitch: 24.13227
+  x: -20.30000001192093
+  y: 14.200000047683716
+  z: 469.30000001192093
+  yaw: -156.71317
+  pitch: 75.671684
 homes:
   home:
     world: world
@@ -21,10 +21,10 @@ homes:
     pitch: 21.45014
 logoutlocation:
   world: world
-  x: 76.53410867038097
-  y: 117.20000004768369
-  z: 3.4911584529295805
-  yaw: -31.232384
-  pitch: 58.06269
+  x: -1.2244729756066952
+  y: 24.0
+  z: 535.3457040190468
+  yaw: 39.469788
+  pitch: 7.12817
 afk: false
 nickname: ConnectionLost
