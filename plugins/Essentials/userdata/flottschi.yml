@@ -1,16 +1,16 @@
 uuid: f17e8c2c-5381-491b-9b01-f1fa08b711e9
 timestamps:
-  login: 1535481608891
-  lastteleport: 1535434139764
-  logout: 1535469841166
+  login: 1535574123570
+  lastteleport: 1535553763189
+  logout: 1535578497805
 ipAddress: 213.157.155.79
 lastlocation:
   world: world
-  x: -20.30000001192093
-  y: 14.200000047683716
-  z: 469.30000001192093
-  yaw: -156.71317
-  pitch: 75.671684
+  x: -5.218883999776746
+  y: 109.0519722415087
+  z: -10.019404669056117
+  yaw: -0.1598902
+  pitch: 23.26553
 homes:
   home:
     world: world
@@ -21,10 +21,10 @@ homes:
     pitch: 21.45014
 logoutlocation:
   world: world
-  x: -1.2244729756066952
-  y: 24.0
-  z: 535.3457040190468
-  yaw: 39.469788
-  pitch: 7.12817
+  x: -19.17969059572506
+  y: 21.735497600000006
+  z: 464.48730168829206
+  yaw: -325.39233
+  pitch: 37.333733
 afk: false
-nickname: ConnectionLost
+nickname: zScopen

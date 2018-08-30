@@ -1,23 +1,23 @@
 uuid: b8b856cf-574d-4591-b7ee-b09c70d43080
 timestamps:
-  login: 1535220694123
-  logout: 1535224099511
-  lastteleport: 1535120531446
-ipAddress: 178.115.128.175
+  login: 1535549587898
+  logout: 1535553747413
+  lastteleport: 1535551789479
+ipAddress: 77.119.130.169
 lastlocation:
-  world: DIM-29
-  x: 16.75621992778818
-  y: 98.0
-  z: 572.3851656182104
-  yaw: -175.85468
-  pitch: 27.749937
+  world: world
+  x: 22.161973924670253
+  y: 63.0
+  z: 450.1667337493283
+  yaw: 185.7001
+  pitch: 19.199926
 logoutlocation:
   world: world
-  x: 17.776977612854424
-  y: 184.0
-  z: 513.5509127142548
-  yaw: -104.88321
-  pitch: 17.100046
+  x: 12.989955942683492
+  y: 67.0
+  z: 311.85050708077335
+  yaw: 60.147095
+  pitch: 5.400012
 afk: false
 homes:
   home:
@@ -27,3 +27,4 @@ homes:
     z: 315.0842927783807
     yaw: 181.6084
     pitch: 33.600014
+nickname: DeinHausarzt
