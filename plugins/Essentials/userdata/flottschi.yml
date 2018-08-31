@@ -1,8 +1,8 @@
 uuid: f17e8c2c-5381-491b-9b01-f1fa08b711e9
 timestamps:
-  login: 1535574123570
+  login: 1535645722405
   lastteleport: 1535553763189
-  logout: 1535578497805
+  logout: 1535655917662
 ipAddress: 213.157.155.79
 lastlocation:
   world: world
@@ -21,10 +21,9 @@ homes:
     pitch: 21.45014
 logoutlocation:
   world: world
-  x: -19.17969059572506
-  y: 21.735497600000006
-  z: 464.48730168829206
-  yaw: -325.39233
-  pitch: 37.333733
+  x: -14.96565061492263
+  y: 14.0
+  z: 466.8401665017885
+  yaw: -268.86517
+  pitch: 8.450913
 afk: false
-nickname: zScopen
