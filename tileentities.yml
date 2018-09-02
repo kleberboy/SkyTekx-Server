@@ -442,9 +442,6 @@ world-settings:
     thaumcraft-common-tiles-TileTubeValve:
       tick-no-players: false
       tick-interval: 1
-    exnihilo-blocks-tileentities-TileEntityCrucible:
-      tick-no-players: false
-      tick-interval: 1
     erogenousbeef-bigreactors-common-tileentity-TileEntityCyaniteReprocessor:
       tick-no-players: false
       tick-interval: 1
@@ -523,6 +520,9 @@ world-settings:
     ic2-core-block-generator-tileentity-TileEntityGenerator:
       tick-no-players: false
       tick-interval: 1
+    io-endertech-tile-TileChargePad:
+      tick-no-players: false
+      tick-interval: 1
     codechicken-enderstorage-storage-liquid-TileEnderTank:
       tick-no-players: false
       tick-interval: 1
@@ -580,16 +580,19 @@ world-settings:
     com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorNether:
       tick-no-players: false
       tick-interval: 1
-    net-minecraft-tileentity-TileEntityEnchantmentTable:
-      tick-no-players: false
-      tick-interval: 1
     micdoodle8-mods-galacticraft-core-tile-TileEntityParaChest:
       tick-no-players: false
       tick-interval: 1
     micdoodle8-mods-galacticraft-core-tile-TileEntityFuelLoader:
       tick-no-players: false
       tick-interval: 1
+    exnihilo-blocks-tileentities-TileEntityCrucible:
+      tick-no-players: false
+      tick-interval: 1
     com-emoniph-witchery-blocks-BlockCircleTileEntityCircle:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityEnchantmentTable:
       tick-no-players: false
       tick-interval: 1
     vazkii-botania-common-block-tile-TileAltar:
