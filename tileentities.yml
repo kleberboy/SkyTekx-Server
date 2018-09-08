@@ -442,6 +442,9 @@ world-settings:
     thaumcraft-common-tiles-TileTubeValve:
       tick-no-players: false
       tick-interval: 1
+    exnihilo-blocks-tileentities-TileEntityCrucible:
+      tick-no-players: false
+      tick-interval: 1
     vazkii-botania-common-block-tile-mana-TilePool:
       tick-no-players: false
       tick-interval: 1
@@ -506,9 +509,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     com-emoniph-witchery-blocks-BlockCircleTileEntityCircle:
-      tick-no-players: false
-      tick-interval: 1
-    exnihilo-blocks-tileentities-TileEntityCrucible:
       tick-no-players: false
       tick-interval: 1
     openblocks-common-tileentity-TileEntityTrophy:
