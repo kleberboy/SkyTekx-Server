@@ -460,16 +460,7 @@ world-settings:
     cofh-thermalexpansion-block-machine-TileSawmill:
       tick-no-players: false
       tick-interval: 1
-    jds-bibliocraft-tileentities-TileEntityClock:
-      tick-no-players: false
-      tick-interval: 1
-    jds-bibliocraft-tileentities-TileEntityTable:
-      tick-no-players: false
-      tick-interval: 1
     com-rwtema-extrautils-tileentity-TileEntityBlockColorData:
-      tick-no-players: false
-      tick-interval: 1
-    cofh-thermalexpansion-block-cell-TileCell:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileSensor:
@@ -478,19 +469,13 @@ world-settings:
     thaumcraft-common-tiles-TileArcaneLamp:
       tick-no-players: false
       tick-interval: 1
-    tconstruct-smeltery-logic-FaucetLogic:
+    cofh-thermalexpansion-block-cell-TileCell:
       tick-no-players: false
       tick-interval: 1
-    tconstruct-smeltery-logic-LavaTankLogic:
+    jds-bibliocraft-tileentities-TileEntityClock:
       tick-no-players: false
       tick-interval: 1
-    tconstruct-smeltery-logic-CastingBasinLogic:
-      tick-no-players: false
-      tick-interval: 1
-    tconstruct-smeltery-logic-CastingTableLogic:
-      tick-no-players: false
-      tick-interval: 1
-    tconstruct-smeltery-logic-SmelteryLogic:
+    jds-bibliocraft-tileentities-TileEntityTable:
       tick-no-players: false
       tick-interval: 1
     appeng-tile-misc-TileCharger:
@@ -509,6 +494,21 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorFurnaceSurvival:
+      tick-no-players: false
+      tick-interval: 1
+    tconstruct-smeltery-logic-FaucetLogic:
+      tick-no-players: false
+      tick-interval: 1
+    tconstruct-smeltery-logic-LavaTankLogic:
+      tick-no-players: false
+      tick-interval: 1
+    tconstruct-smeltery-logic-CastingBasinLogic:
+      tick-no-players: false
+      tick-interval: 1
+    tconstruct-smeltery-logic-CastingTableLogic:
+      tick-no-players: false
+      tick-interval: 1
+    tconstruct-smeltery-logic-SmelteryLogic:
       tick-no-players: false
       tick-interval: 1
     powercrystals-minefactoryreloaded-tile-machine-TileEntityBlockPlacer:
@@ -550,6 +550,9 @@ world-settings:
     exnihilo-blocks-tileentities-TileEntityBarrel:
       tick-no-players: false
       tick-interval: 1
+    com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorNether:
+      tick-no-players: false
+      tick-interval: 1
     micdoodle8-mods-galacticraft-core-tile-TileEntityMulti:
       tick-no-players: false
       tick-interval: 1
@@ -578,9 +581,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     micdoodle8-mods-galacticraft-core-tile-TileEntityCircuitFabricator:
-      tick-no-players: false
-      tick-interval: 1
-    com-rwtema-extrautils-tileentity-generators-TileEntityGeneratorNether:
       tick-no-players: false
       tick-interval: 1
     micdoodle8-mods-galacticraft-core-tile-TileEntityParaChest:
