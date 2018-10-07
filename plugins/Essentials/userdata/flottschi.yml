@@ -1,8 +1,8 @@
 uuid: f17e8c2c-5381-491b-9b01-f1fa08b711e9
 timestamps:
-  login: 1538784455371
+  login: 1538865032033
   lastteleport: 1538757066058
-  logout: 1538788257497
+  logout: 1538868186594
 ipAddress: 194.118.134.45
 lastlocation:
   world: world
@@ -21,10 +21,12 @@ homes:
     pitch: 21.45014
 logoutlocation:
   world: world
-  x: -19.883559629227715
-  y: 21.62206846635453
-  z: 467.30000001192093
-  yaw: -182.44817
-  pitch: 51.43168
+  x: -11.12907782557832
+  y: 14.0
+  z: 475.14889375258
+  yaw: -171.29773
+  pitch: 11.873778
 afk: false
 money: '400.0'
+mail:
+- 'SryForBeingGay: gay'

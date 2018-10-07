@@ -1,17 +1,17 @@
 uuid: af6718ae-82b8-4c41-a28e-a555707fa868
 timestamps:
-  login: 1538211968106
-  logout: 1538212487653
-  lastteleport: 1535164460401
-ipAddress: 178.112.246.116
+  login: 1538865201050
+  logout: 1538868018053
+  lastteleport: 1538867846734
+ipAddress: 178.165.131.139
 afk: false
 logoutlocation:
   world: world
-  x: 20.58543929885768
-  y: 7.2000000476837105
-  z: 293.77503563702476
-  yaw: 256.95047
-  pitch: 29.099998
+  x: 19.11948091357493
+  y: 89.52204612962129
+  z: -31.358728752239227
+  yaw: -109.36755
+  pitch: 19.800014
 mail:
 - 'Flottschi: Quak'
 - 'Flottschi: kaak'
