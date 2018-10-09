@@ -1439,11 +1439,13 @@
 -803 76 -8342 -792 84 -8334 MinersHut.tml
 -798 69 -1344 -790 81 -1334 ArrowTrapTomb.tml
 -795 47 627 -784 59 663 SunkenShip-v3.tml
+-793 45 -5131 -767 58 -5123 shipwreck.tml
 -791 62 -900 -784 70 -893 Outcrop.tml
 -788 76 -8347 -776 86 -8335 VolcanicVent.tml
 -787 68 -1520 -784 71 -1517 EmeraldOreOutcrop.tml
 -785 46 684 -774 58 720 SunkenShip-v3.tml
 -781 62 1178 -751 100 1208 PirateShip.tml
+-774 45 -5027 -738 65 -5016 SunkenShip-v2.tml
 -773 45 415 -737 65 426 SunkenShip-v2.tml
 -771 30 1068 -735 50 1079 SunkenShip-v2.tml
 -771 74 -8431 -759 107 -8419 OreSpire.tml
