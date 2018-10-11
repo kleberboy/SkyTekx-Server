@@ -70,48 +70,48 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-ImmersiveEngineering-IEWorldGen: true
-    worldgen-GalacticraftCore-OverworldGenerator: true
-    worldgen-ExtrabiomesXL-LegendOakGenerator: true
-    worldgen-ProjectZuluCore-FeatureGenerator: true
-    worldgen-magicalcrops-WorldGenEssenceNether: true
-    worldgen-hexxitgear-HGWorldGen: true
-    worldgen-magicalcrops-WorldGenEssence: true
     worldgen-IC2-IC2: true
-    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
-    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
-    worldgen-ExtraUtilities-WorldGenEnderLillies: true
-    worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-ASRuins-RuinsWorldGenerator: true
-    worldgen-ExtrabiomesXL-CatTailGenerator: true
-    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
-    worldgen-ExtrabiomesXL-LeafPileGenerator: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
-    worldgen-ExtrabiomesXL-EelGrassGenerator: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
     worldgen-CoFHCore-WorldHandler: true
-    worldgen-ExtrabiomesXL-FlowerGenerator: true
-    worldgen-ExtrabiomesXL-OilGenerator: true
-    worldgen-Natura-BaseCropWorldgen: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-witchery-WitcheryWorldGenerator: true
-    worldgen-BattleTowers-WorldGenHandler: true
-    worldgen-Natura-BaseCloudWorldgen: true
-    worldgen-chisel-GeneratorChisel: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-harvestcraft-PamTreeGenerator: true
-    worldgen-ExtrabiomesXL-VineGenerator: true
-    worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-magicalcrops-WorldGenEssenceEnd: true
-    worldgen-chocolateQuest-WorldGeneratorNew: true
-    worldgen-Natura-BaseTreeWorldgen: true
-    worldgen-chococraft-WorldGenGysahls: true
-    worldgen-harvestcraft-PamBeeGenerator: true
-    worldgen-appliedenergistics2-QuartzWorldGen: true
-    worldgen-meteors-MeteorsMod: true
-    worldgen-DraconicEvolution-DraconicWorldGenerator: true
     worldgen-harvestcraft-WorldGenPamSalt: true
+    worldgen-ASRuins-RuinsWorldGenerator: true
+    worldgen-ExtrabiomesXL-VineGenerator: true
+    worldgen-ExtrabiomesXL-OilGenerator: true
+    worldgen-magicalcrops-WorldGenEssence: true
+    worldgen-ExtrabiomesXL-FlowerGenerator: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-ExtrabiomesXL-CatTailGenerator: true
+    worldgen-harvestcraft-PamGardenGenerator: true
+    worldgen-meteors-MeteorsMod: true
+    worldgen-appliedenergistics2-QuartzWorldGen: true
+    worldgen-ExtrabiomesXL-EelGrassGenerator: true
+    worldgen-GalacticraftCore-OverworldGenerator: true
+    worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-BattleTowers-WorldGenHandler: true
+    worldgen-chisel-GeneratorChisel: true
+    worldgen-ExtrabiomesXL-LegendOakGenerator: true
+    worldgen-hexxitgear-HGWorldGen: true
+    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
+    worldgen-Natura-BaseCropWorldgen: true
+    worldgen-Natura-BaseCloudWorldgen: true
+    worldgen-magicalcrops-WorldGenEssenceEnd: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-harvestcraft-PamBeeGenerator: true
+    worldgen-DraconicEvolution-DraconicWorldGenerator: true
+    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
+    worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
+    worldgen-chocolateQuest-WorldGeneratorNew: true
     worldgen-ExtrabiomesXL-QuicksandGenerator: true
+    worldgen-witchery-WitcheryWorldGenerator: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-chococraft-WorldGenGysahls: true
+    worldgen-magicalcrops-WorldGenEssenceNether: true
+    worldgen-ExtrabiomesXL-LeafPileGenerator: true
+    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-ProjectZuluCore-FeatureGenerator: true
   max-players-visible: -1
 plugin-settings:
   default:
