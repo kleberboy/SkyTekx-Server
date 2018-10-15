@@ -11,13 +11,16 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 7
+commands:
+  log: true
+  tab-complete: true
 settings:
-  timeout-time: 90
-  restart-on-crash: true
-  restart-script: ./RUN.sh
   bungeecord: false
   late-bind: false
   sample-count: 12
+  timeout-time: 90
+  restart-on-crash: true
+  restart-script: ./RUN.sh
   netty-threads: -1
   player-shuffle: 0
   fullMatchRate: 10
@@ -28,9 +31,6 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client! Please use {}
   outdated-server: Outdated server! I'm still on {}
-commands:
-  log: true
-  tab-complete: true
 stats:
   disable-saving: false
   forced-stats: {}
@@ -91,11 +91,11 @@ world-settings:
       tile: 50
       entity: 50
     max-tnt-per-tick: 100
-    view-distance: 10
-    use-async-lighting: true
-    zombie-aggressive-towards-villager: true
     arrow-despawn-rate: 1200
-    chunks-per-tick: 650
-    clear-tick-list: false
+    use-async-lighting: true
     item-despawn-rate: 6000
     enable-zombie-pigmen-portal-spawns: true
+    view-distance: 10
+    chunks-per-tick: 650
+    clear-tick-list: false
+    zombie-aggressive-towards-villager: true
