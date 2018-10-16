@@ -1,8 +1,8 @@
 uuid: f17e8c2c-5381-491b-9b01-f1fa08b711e9
 timestamps:
-  login: 1539549603941
+  login: 1539624334894
   lastteleport: 1539177353965
-  logout: 1539550672771
+  logout: 1539623317051
 ipAddress: 80.123.3.210
 lastlocation:
   world: DIM-1
@@ -21,10 +21,10 @@ homes:
     pitch: 21.45014
 logoutlocation:
   world: world
-  x: -20.486406600290124
-  y: 25.200000047683716
-  z: 450.62992354065324
-  yaw: 270.5919
-  pitch: 22.864487
-afk: false
+  x: -12.186437646257785
+  y: 18.342867919578644
+  z: 534.6999999880791
+  yaw: -14.975522
+  pitch: 47.599827
+afk: true
 money: '400.0'
