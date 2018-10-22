@@ -1810,6 +1810,7 @@
 188 64 4539 195 72 4546 Outcrop.tml
 195 68 4255 200 73 4260 CaveSpiderBurrow.tml
 204 65 4117 207 70 4121 StonePillar.tml
+214 64 2472 218 69 2475 StonePillar.tml
 222 68 -2372 273 81 -2351 AlchemistsDungeon.tml
 231 70 3530 241 74 3540 RuinedSmallFountainDiagonal.tml
 233 76 3901 236 79 3904 EmeraldOreOutcrop.tml
@@ -1825,6 +1826,8 @@
 268 63 -2368 271 68 -2364 StonePillar.tml
 276 66 -2879 279 69 -2876 EmeraldOreOutcrop.tml
 282 62 -1763 285 65 -1760 EmeraldOreOutcrop.tml
+287 70 2410 299 74 2422 AncientFountain.tml
+288 70 2492 291 73 2495 EmeraldOreOutcrop.tml
 296 69 -1854 308 73 -1842 AncientFountain.tml
 296 71 -2003 301 76 -1998 CaveSpiderBurrow.tml
 301 166 -2740 304 170 -2738 SkeletonHeadStatue.tml
@@ -1838,6 +1841,7 @@
 373 65 -2924 378 70 -2919 CaveSpiderBurrow.tml
 373 44 -3073 399 57 -3065 shipwreck.tml
 374 76 -2040 381 79 -2033 TinyFarmField.tml
+383 70 2402 385 74 2405 SkeletonHeadStatue.tml
 386 70 -1814 389 73 -1811 StoneGrill.tml
 388 62 -1725 395 70 -1718 Outcrop.tml
 389 75 -4340 401 79 -4328 AncientFountain.tml
@@ -1852,6 +1856,7 @@
 411 65 -2258 414 69 -2256 SkeletonHeadStatue.tml
 414 69 -4081 426 77 -4071 StoneHouseMruined.tml
 420 66 -2348 427 69 -2341 TinyFarmField.tml
+430 68 2456 439 75 2471 Archway.tml
 438 71 -3882 442 76 -3879 StonePillar.tml
 440 70 -2703 447 73 -2696 TinyFarmField.tml
 442 68 -2597 454 76 -2587 StoneHouseMruined.tml
@@ -1874,6 +1879,7 @@
 506 36 -4950 517 56 -4914 SunkenShip-v2.tml
 507 46 1502 518 58 1538 SunkenShip-v3.tml
 511 72 -4029 514 76 -4027 SkeletonHeadStatue.tml
+512 79 2477 517 83 2484 ZombieHut.tml
 518 45 -4359 544 58 -4351 shipwreck.tml
 523 66 -3708 530 68 -3703 PumpkinField.tml
 525 69 -4006 535 73 -3996 RuinedSmallFountainDiagonal.tml
@@ -1983,10 +1989,12 @@
 905 45 -4491 916 65 -4455 SunkenShip-v2.tml
 911 38 1042 922 58 1078 SunkenShip-v2.tml
 911 66 2650 916 68 2657 PumpkinField.tml
+928 70 2094 931 73 2097 EmeraldOreOutcrop.tml
 929 62 -4126 934 66 -4119 ZombieHut.tml
 939 63 2284 942 66 2287 StoneGrill.tml
 960 63 -2487 963 66 -2484 EmeraldOreOutcrop.tml
 964 71 2791 976 75 2803 AncientFountain.tml
+966 62 1980 973 65 1987 TinyFarmField.tml
 972 75 -4294 984 79 -4282 AncientFountain.tml
 974 68 2427 979 70 2434 Melonfield.tml
 979 74 -4378 988 88 -4369 MoaiHead.tml
@@ -1995,10 +2003,12 @@
 985 65 2626 992 68 2633 TinyFarmField.tml
 992 48 -4782 1000 61 -4756 shipwreck.tml
 1005 46 -4507 1041 58 -4496 SunkenShip-v3.tml
+1005 67 2137 1010 72 2142 CaveSpiderBurrow.tml
 1009 62 2304 1019 70 2316 StoneHouseMruined.tml
 1011 69 2501 1019 77 2512 MinersHut.tml
 1017 74 2698 1020 77 2701 EmeraldOreOutcrop.tml
 1023 69 1024 1026 72 1027 EmeraldOreOutcrop.tml
+1024 62 1846 1056 76 1878 Floater.tml
 1038 46 -3236 1046 59 -3210 shipwreck.tml
 1046 77 -4131 1048 81 -4128 SkeletonHeadStatue.tml
 1056 67 -3519 1063 70 -3512 TinyFarmField.tml
@@ -2006,11 +2016,14 @@
 1059 69 2772 1069 73 2782 RuinedSmallFountainDiagonal.tml
 1063 70 -3423 1068 72 -3416 Melonfield.tml
 1063 64 -3618 1065 68 -3615 SkeletonHeadStatue.tml
+1063 65 1948 1070 67 1953 PumpkinField.tml
 1073 66 2580 1093 79 2600 Altar.tml
 1077 70 2905 1082 74 2912 ZombieHut.tml
 1093 63 -4256 1096 68 -4252 StonePillar.tml
+1094 70 2105 1097 75 2109 StonePillar.tml
 1098 69 -534 1103 74 -529 CaveSpiderBurrow.tml
 1098 73 2484 1101 78 2488 StonePillar.tml
+1100 66 2022 1102 70 2025 SkeletonHeadStatue.tml
 1104 62 872 1134 100 902 PirateShip.tml
 1110 75 -4363 1117 83 -4356 Outcrop.tml
 1124 62 -4158 1154 100 -4128 PirateShip.tml
