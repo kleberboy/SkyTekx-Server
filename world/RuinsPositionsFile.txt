@@ -2026,12 +2026,14 @@
 1100 66 2022 1102 70 2025 SkeletonHeadStatue.tml
 1104 62 872 1134 100 902 PirateShip.tml
 1110 75 -4363 1117 83 -4356 Outcrop.tml
+1111 72 2227 1118 74 2232 PumpkinField.tml
 1124 62 -4158 1154 100 -4128 PirateShip.tml
 1129 47 1746 1165 59 1757 SunkenShip-v3.tml
 1131 69 -1805 1143 79 -1793 VolcanicVent.tml
 1132 81 -3645 1135 84 -3642 EmeraldOreOutcrop.tml
 1132 79 -3558 1135 84 -3554 StonePillar.tml
 1136 53 -3354 1172 73 -3343 SunkenShip-v2.tml
+1140 70 2311 1147 78 2318 Outcrop.tml
 1145 68 -3460 1148 71 -3457 StoneGrill.tml
 1145 75 2782 1148 78 2785 StoneGrill.tml
 1148 68 -3109 1151 72 -3107 SkeletonHeadStatue.tml
