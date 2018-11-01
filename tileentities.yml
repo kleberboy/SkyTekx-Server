@@ -445,6 +445,9 @@ world-settings:
     thaumcraft-common-tiles-TileTubeValve:
       tick-no-players: false
       tick-interval: 1
+    exnihilo-blocks-tileentities-TileEntityCrucible:
+      tick-no-players: false
+      tick-interval: 1
     cpw-mods-ironchest-TileEntityGoldChest:
       tick-no-players: false
       tick-interval: 1
@@ -593,9 +596,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     buildcraft-factory-TilePump:
-      tick-no-players: false
-      tick-interval: 1
-    exnihilo-blocks-tileentities-TileEntityCrucible:
       tick-no-players: false
       tick-interval: 1
     com-brandon3055-draconicevolution-common-tileentities-TilePlayerDetectorAdvanced:
