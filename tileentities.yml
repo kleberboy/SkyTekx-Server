@@ -409,6 +409,15 @@ world-settings:
     ic2-core-block-wiring-TileEntityElectricMFE:
       tick-no-players: false
       tick-interval: 1
+    com-emoniph-witchery-blocks-BlockAltarTileEntityAltar:
+      tick-no-players: false
+      tick-interval: 1
+    com-emoniph-witchery-blocks-BlockChaliceTileEntityChalice:
+      tick-no-players: false
+      tick-interval: 1
+    com-emoniph-witchery-blocks-BlockLeechChestTileEntityLeechChest:
+      tick-no-players: false
+      tick-interval: 1
     net-minecraft-tileentity-TileEntityHopper:
       tick-no-players: false
       tick-interval: 1
@@ -419,15 +428,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     crazypants-enderio-machine-reservoir-TileReservoir:
-      tick-no-players: false
-      tick-interval: 1
-    com-emoniph-witchery-blocks-BlockAltarTileEntityAltar:
-      tick-no-players: false
-      tick-interval: 1
-    com-emoniph-witchery-blocks-BlockChaliceTileEntityChalice:
-      tick-no-players: false
-      tick-interval: 1
-    com-emoniph-witchery-blocks-BlockLeechChestTileEntityLeechChest:
       tick-no-players: false
       tick-interval: 1
     com-emoniph-witchery-blocks-BlockCoffinTileEntityCoffin:
