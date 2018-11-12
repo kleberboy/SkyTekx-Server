@@ -37,9 +37,6 @@ stats:
 world-settings:
   default:
     verbose: false
-    mob-spawn-range: 4
-    random-light-updates: false
-    save-structure-info: true
     merge-radius:
       item: 2.5
       exp: 3.0
@@ -79,6 +76,8 @@ world-settings:
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
+    random-light-updates: false
+    save-structure-info: true
     max-bulk-chunks: 5
     max-entity-collisions: 8
     max-tick-time:
@@ -91,10 +90,11 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
+    mob-spawn-range: 4
+    view-distance: 10
     use-async-lighting: true
     chunks-per-tick: 650
     clear-tick-list: false
-    view-distance: 10
     item-despawn-rate: 6000
     enable-zombie-pigmen-portal-spawns: true
     arrow-despawn-rate: 1200
