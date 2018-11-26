@@ -11,9 +11,6 @@
 # Forums: http://www.spigotmc.org/forum/
 
 config-version: 7
-commands:
-  log: true
-  tab-complete: true
 settings:
   bungeecord: false
   late-bind: false
@@ -31,6 +28,9 @@ messages:
   server-full: The server is full!
   outdated-client: Outdated client! Please use {}
   outdated-server: Outdated server! I'm still on {}
+commands:
+  log: true
+  tab-complete: true
 stats:
   disable-saving: false
   forced-stats: {}
@@ -47,6 +47,7 @@ world-settings:
     random-light-updates: false
     save-structure-info: true
     max-bulk-chunks: 5
+    max-entity-collisions: 8
     merge-radius:
       item: 2.5
       exp: 3.0
@@ -79,7 +80,6 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
-    max-entity-collisions: 8
     max-tick-time:
       tile: 50
       entity: 50
@@ -91,11 +91,11 @@ world-settings:
       misc: 32
       other: 64
     mob-spawn-range: 4
-    use-async-lighting: true
+    item-despawn-rate: 6000
     view-distance: 10
+    use-async-lighting: true
+    arrow-despawn-rate: 1200
     chunks-per-tick: 650
     clear-tick-list: false
-    item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     zombie-aggressive-towards-villager: true
