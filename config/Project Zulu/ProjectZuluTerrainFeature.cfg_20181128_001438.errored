@@ -1,0 +1,61 @@
+# Configuration file
+
+feature {
+
+    small {
+
+        oasis {
+
+            general {
+                B:"Should Generate"=true
+                I:chunksPerSpawn=400
+                I:minChunkDistance=3
+                B:printToLog=false
+            }
+
+            generatingbiomes {
+                B:"appeng.spatial.BiomeGenStorage.Storage Cell"=false
+                B:"buildcraft.energy.worldgen.BiomeGenOilDesert.Desert Oil Field"=false
+                B:"buildcraft.energy.worldgen.BiomeGenOilOcean.Ocean Oil Field"=false
+                B:chylex.hee.world.biome.BiomeGenHardcoreEnd.Sky=false
+                B:extrabiomes.module.summa.biome.BiomeAlpine.Alpine=false
+                B:"extrabiomes.module.summa.biome.BiomeAutumnWoods.Autumn Woods"=false
+                B:"extrabiomes.module.summa.biome.BiomeBirchForest.Birch Forest"=false
+                B:"extrabiomes.module.summa.biome.BiomeExtremeJungle.Extreme Jungle"=false
+                B:"extrabiomes.module.summa.biome.BiomeForestedHills.Forested Hills"=false
+                B:"extrabiomes.module.summa.biome.BiomeForestedIsland.Forested Island"=false
+                B:extrabiomes.module.summa.biome.BiomeGlacier.Glacier=false
+                B:"extrabiomes.module.summa.biome.BiomeGreenHills.Green Hills"=false
+                B:"extrabiomes.module.summa.biome.BiomeGreenSwamp.Green Swamplands"=false
+                B:"extrabiomes.module.summa.biome.BiomeIceWasteland.Ice Wasteland"=false
+                B:extrabiomes.module.summa.biome.BiomeMeadow.Meadow=false
+                B:"extrabiomes.module.summa.biome.BiomeMiniJungle.Mini Jungle"=false
+                B:"extrabiomes.module.summa.biome.BiomeMountainDesert.Mountainous Desert"=false
+                B:"extrabiomes.module.summa.biome.BiomeMountainRidge.Red Rock Mountains"=false
+                B:"extrabiomes.module.summa.biome.BiomeMountainTaiga.Mountain Taiga"=false
+                B:"extrabiomes.module.summa.biome.BiomePineForest.Pine Forest"=false
+                B:extrabiomes.module.summa.biome.BiomeRainforest.Rainforest=false
+                B:"extrabiomes.module.summa.biome.BiomeRedwoodForest.Redwood Forest"=false
+                B:"extrabiomes.module.summa.biome.BiomeRedwoodLush.Lush Redwoods"=false
+                B:extrabiomes.module.summa.biome.BiomeSavanna.Savanna=false
+                B:extrabiomes.module.summa.biome.BiomeShrubland.Shrubland=false
+                B:"extrabiomes.module.summa.biome.BiomeSnowForest.Snow Forest"=false
+                B:"extrabiomes.module.summa.biome.BiomeSnowRainforest.Snowy Rainforest"=false
+                B:"extrabiomes.module.summa.biome.BiomeTemporateRainforest.Temperate Rainforest"=false
+                B:extrabiomes.module.summa.biome.BiomeTundra.Tundra=false
+                B:extrabiomes.module.summa.biome.BiomeWasteland.Wasteland=false
+                B:extrabiomes.module.summa.biome.BiomeWoodlands.Woodlands=false
+                B:micdoodle8.mods.galacticraft.core.world.gen.BiomeGenBaseOrbit.space=false
+                B:micdoodle8.mods.galacticraft.core.world.gen.BiomeGenFlatMoon.moon=false
+                B:micdoodle8.mods.galacticraft.planets.asteroids.world.gen.BiomeGenBaseAsteroids.asteroids=false
+                B:micdoodle8.mods.galacticraft.planets.mars.world.gen.BiomeGenFlatMars.marsFlat=false
+                B:net.aetherteam.aether.worldgen.BiomeGenAether.Aether=false
+                B:net.minecraft.world.biome.BiomeGenBeach.Beach=false
+                B:"net.minecraft.world.biome.BiomeGenBeach.Cold Beach"=false
+                B:net.minecraft.world.biome.BiomeGenDesert.Desert=true
+                B:net.minecraft.world.biome.BiomeGenDesert.DesertHills=true
+                B:"net.minecraft.world.biome.BiomeGenForest$1.Roofed Forest M"=false
+                B:"net.minecraft.world.biome.BiomeGenForest$2.Birch Forest Hills M"=false
+                B:"net.minecraft.world.biome.BiomeGenForest$2.Birch Forest M"=false
+                B:"net.minecraft.world.biome.BiomeGenForest.Birch Forest"=false
+                B:"net.minecraft.world.biome.BiomeGenForest.Birch Fores

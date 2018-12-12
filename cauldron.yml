@@ -178,7 +178,7 @@ world-environment-settings:
     keep-world-loaded: true
     enabled: true
   mars:
-    keep-world-loaded: true
+    keep-world-loaded: tru
     enabled: true
   moon:
     keep-world-loaded: true
